@@ -9,7 +9,7 @@ Log in at https://ooinet.oceanobservatories.org/ and obtain your username and to
 
 ## Local Setup Instructions
 
-<b>For use on your local machine only.</b> You do not need to proceed if you are using the jupyterhub server.
+During the workshop you will be provided with a JupyterHub workspace on the cloud and your environment will already be set up for you. If you would like to try out these notebooks on your local machine, you can proceed with the following instructions.
 
 Download anaconda or [miniconda](https://conda.io/miniconda.html), then add the conda-forge channel.
 
