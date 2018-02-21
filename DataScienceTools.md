@@ -1,7 +1,7 @@
-###Data Science Tools
+### Data Science Tools
 
 ------------------
-####Jupyter notebooks
+#### Jupyter notebooks
 
 * We have a Jupyter Hub!
 	- access to Python 3 Jupyter Notebooks on the cloud
@@ -41,7 +41,7 @@ Extra resources: on the [wiki](https://github.com/oceanhackweek/cabled_array_hw2
 Show notebooks with advanced visualization [plotly example] (https://nbviewer.jupyter.org/github/valentina-s/pyFlyEye/blob/master/SWC_post-processing_Holco29.ipynb).
 
 ---
-####Git topics to cover:
+#### Git topics to cover:
 
 * overview & examples
 
