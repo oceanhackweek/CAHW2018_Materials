@@ -12,7 +12,7 @@ Download anaconda or [miniconda](https://conda.io/miniconda.html), then add the 
 conda config --add channels conda-forge
 ```
 
-Create a environment for this exercise called ooi3.
+Create an environment for this exercise called ooi3.
 
 ```
 $ conda create -n ooi3 python=3 ipykernel requests xarray netcdf4 pandas numpy matplotlib holoviews datashader bokeh plotly
