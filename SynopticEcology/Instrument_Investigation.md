@@ -26,6 +26,10 @@ Rob and Eric - Sheet with important info on profiler movement, grid of instrumen
 ## Problem Sensors:    
 pCO2 (known issue and known fix) 
 
+## Cruise Water Samples for Validation:
+[Posted Data](https://alfresco.oceanobservatories.org/alfresco/n/browse/workspace/SpacesStore/8b0ad7f1-7f4c-4aa0-91b3-f670f85582bd)
+Ask Katie and Debra for complete dataset
+
 ## Drift problems:  
 Profiler/Platform validation for sensors   
 Note that the offset is 1 m between profiler and platform.  
