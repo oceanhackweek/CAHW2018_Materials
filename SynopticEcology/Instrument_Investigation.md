@@ -24,7 +24,7 @@ Rob and Eric - Sheet with important info on profiler movement, grid of instrumen
 offshore (Endurance), slope base (Cabled), axial base (Cabled)  
 
 ## Problem Sensors:    
-pCO2 corrections  
+pCO2 (known issue and known fix) 
 
 ## Drift problems:  
 Profiler/Platform validation for sensors   
