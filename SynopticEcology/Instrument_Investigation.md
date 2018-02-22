@@ -9,7 +9,7 @@ Allison - CTD
 Allison and Katie - Still camera   
 
 Additional sensors to investigate:  
-PAR, Spectrophotometer, Nitrate  
+PAR, Spectrophotometer, Nitrate, pCO2  
 
 ## Task 1: 
 7:00 am August 21 to 7:00 am August 22 (UTC)  
