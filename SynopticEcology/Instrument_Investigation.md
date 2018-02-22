@@ -21,7 +21,7 @@ Make a plot (Depth versus Time or Concentration depth profiles)
 Rob and Eric - Sheet with important info on profiler movement, grid of instruments across locations.  
 
 ## Locations:  
-offshore (Endurance), slope base (Cabled), axial base (Cabled)  
+[offshore](http://ooi.visualocean.net/sites/view/RS01SBPS) (Endurance), [slope base](http://ooi.visualocean.net/sites/view/RS01SBPS) (Cabled), axial base (Cabled)  
 
 ## Problem Sensors:    
 pCO2 (known issue and known fix) 
