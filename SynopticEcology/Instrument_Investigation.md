@@ -6,7 +6,8 @@ Sasha - pH
 James - pressure versus time, velocity  
 Wu-Jung and Robert - acoustics   
 Allison - CTD   
-Allison and Katie - Still camera   
+Allison and Katie - Still camera
+    wget -r -np -k -nd -e robots=off -A png https://rawdata.oceanobservatories.org/files/RS03INT1/MJ03C/CAMDSB303/
 
 Additional sensors to investigate:  
 PAR, Spectrophotometer, Nitrate, pCO2  
