@@ -1,0 +1,7 @@
+Rob To-Do list...
+Create a World-Readable S3 bucket for data files 
+Add the whale sounds files to this
+Add the GLODAP files
+Add other obvious files...
+Modify the notebooks to read from S3... see for example Rob's notebooks in the ExternalResources Project
+Create a binder link in the repo for demos
