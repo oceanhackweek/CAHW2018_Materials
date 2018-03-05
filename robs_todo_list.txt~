@@ -5,3 +5,6 @@ Add the GLODAP files
 Add other obvious files...
 Modify the notebooks to read from S3... see for example Rob's notebooks in the ExternalResources Project
 Create a binder link in the repo for demos
+Merge in the remaining Other Repos (but not Don's)
+Move the remaining top level content into the CAHW2018 folder (source_material
+and so on)
