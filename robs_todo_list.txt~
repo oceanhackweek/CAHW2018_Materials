@@ -8,3 +8,7 @@ Create a binder link in the repo for demos
 Merge in the remaining Other Repos (but not Don's)
 Move the remaining top level content into the CAHW2018 folder (source_material
 and so on)
+Just add 'Running Jupyter Notebooks Locally page/readme'
+  cf geohackweek
+https://github.com/geohackweek/ghw2017/wiki/Running-Jupyter-Notebooks-Locally)
+and don’t worry about binder for the moment
