@@ -1,0 +1,581 @@
+reference_designator,method,stream_name,parameter_name,parameter_unit,latitutde,longitude,start_depth,end_depth
+RS01SBPD-DP01A-01-CTDPFL104,recovered_inst,dpc_ctd_instrument_recovered,pressure,dbar,44.52757,-125.38075,200.0,2905.0
+RS01SBPD-DP01A-01-CTDPFL104,recovered_inst,dpc_ctd_instrument_recovered,density,kg m-3,44.52757,-125.38075,200.0,2905.0
+RS01SBPD-DP01A-01-CTDPFL104,recovered_inst,dpc_ctd_instrument_recovered,temp,deg_C,44.52757,-125.38075,200.0,2905.0
+RS01SBPD-DP01A-01-CTDPFL104,recovered_inst,dpc_ctd_instrument_recovered,practical_salinity,1,44.52757,-125.38075,200.0,2905.0
+RS01SBPD-DP01A-01-CTDPFL104,recovered_inst,dpc_ctd_instrument_recovered,dpc_ctd_seawater_conductivity,S m-1,44.52757,-125.38075,200.0,2905.0
+RS01SBPD-DP01A-01-CTDPFL104,recovered_wfp,dpc_ctd_instrument_recovered,pressure,dbar,44.52757,-125.38075,200.0,2905.0
+RS01SBPD-DP01A-01-CTDPFL104,recovered_wfp,dpc_ctd_instrument_recovered,density,kg m-3,44.52757,-125.38075,200.0,2905.0
+RS01SBPD-DP01A-01-CTDPFL104,recovered_wfp,dpc_ctd_instrument_recovered,temp,deg_C,44.52757,-125.38075,200.0,2905.0
+RS01SBPD-DP01A-01-CTDPFL104,recovered_wfp,dpc_ctd_instrument_recovered,practical_salinity,1,44.52757,-125.38075,200.0,2905.0
+RS01SBPD-DP01A-01-CTDPFL104,recovered_wfp,dpc_ctd_instrument_recovered,dpc_ctd_seawater_conductivity,S m-1,44.52757,-125.38075,200.0,2905.0
+RS01SBPD-DP01A-02-VEL3DA103,recovered_inst,dpc_acm_instrument_recovered,vel3d_a_eastward_velocity,m s-1,44.52757,-125.38075,200.0,2905.0
+RS01SBPD-DP01A-02-VEL3DA103,recovered_inst,dpc_acm_instrument_recovered,vel3d_a_northward_velocity,m s-1,44.52757,-125.38075,200.0,2905.0
+RS01SBPD-DP01A-02-VEL3DA103,recovered_inst,dpc_acm_instrument_recovered,vel3d_a_upward_velocity_ascending,m s-1,44.52757,-125.38075,200.0,2905.0
+RS01SBPD-DP01A-02-VEL3DA103,recovered_inst,dpc_acm_instrument_recovered,vel3d_a_upward_velocity_descending,m s-1,44.52757,-125.38075,200.0,2905.0
+RS01SBPD-DP01A-02-VEL3DA103,recovered_wfp,dpc_acm_instrument_recovered,vel3d_a_eastward_velocity,m s-1,44.52757,-125.38075,200.0,2905.0
+RS01SBPD-DP01A-02-VEL3DA103,recovered_wfp,dpc_acm_instrument_recovered,vel3d_a_northward_velocity,m s-1,44.52757,-125.38075,200.0,2905.0
+RS01SBPD-DP01A-02-VEL3DA103,recovered_wfp,dpc_acm_instrument_recovered,vel3d_a_upward_velocity_ascending,m s-1,44.52757,-125.38075,200.0,2905.0
+RS01SBPD-DP01A-02-VEL3DA103,recovered_wfp,dpc_acm_instrument_recovered,vel3d_a_upward_velocity_descending,m s-1,44.52757,-125.38075,200.0,2905.0
+RS01SBPD-DP01A-03-FLCDRA102,recovered_inst,dpc_flcdrtd_instrument_recovered,flcdr_x_mmp_cds_fluorometric_cdom,ppb,44.52757,-125.38075,200.0,2905.0
+RS01SBPD-DP01A-03-FLCDRA102,recovered_wfp,dpc_flcdrtd_instrument_recovered,flcdr_x_mmp_cds_fluorometric_cdom,ppb,44.52757,-125.38075,200.0,2905.0
+RS01SBPD-DP01A-04-FLNTUA102,recovered_inst,dpc_flnturtd_instrument_recovered,flntu_x_mmp_cds_total_volume_scattering_coefficient,m-1 sr-1,44.52757,-125.38075,200.0,2905.0
+RS01SBPD-DP01A-04-FLNTUA102,recovered_inst,dpc_flnturtd_instrument_recovered,flntu_x_mmp_cds_fluorometric_chlorophyll_a,ug L-1,44.52757,-125.38075,200.0,2905.0
+RS01SBPD-DP01A-04-FLNTUA102,recovered_inst,dpc_flnturtd_instrument_recovered,flntu_x_mmp_cds_bback_total,m-1,44.52757,-125.38075,200.0,2905.0
+RS01SBPD-DP01A-04-FLNTUA102,recovered_wfp,dpc_flnturtd_instrument_recovered,flntu_x_mmp_cds_total_volume_scattering_coefficient,m-1 sr-1,44.52757,-125.38075,200.0,2905.0
+RS01SBPD-DP01A-04-FLNTUA102,recovered_wfp,dpc_flnturtd_instrument_recovered,flntu_x_mmp_cds_fluorometric_chlorophyll_a,ug L-1,44.52757,-125.38075,200.0,2905.0
+RS01SBPD-DP01A-04-FLNTUA102,recovered_wfp,dpc_flnturtd_instrument_recovered,flntu_x_mmp_cds_bback_total,m-1,44.52757,-125.38075,200.0,2905.0
+RS01SBPD-DP01A-05-OPTAAC102,recovered_inst,dpc_acs_instrument_recovered,beam_attenuation,m-1,44.52757,-125.38075,200.0,2905.0
+RS01SBPD-DP01A-05-OPTAAC102,recovered_inst,dpc_acs_instrument_recovered,optical_absorption,m-1,44.52757,-125.38075,200.0,2905.0
+RS01SBPD-DP01A-05-OPTAAC102,recovered_inst,dpc_acs_instrument_recovered,wavelength_a,nm,44.52757,-125.38075,200.0,2905.0
+RS01SBPD-DP01A-05-OPTAAC102,recovered_inst,dpc_acs_instrument_recovered,wavelength_c,nm,44.52757,-125.38075,200.0,2905.0
+RS01SBPD-DP01A-05-OPTAAC102,recovered_inst,dpc_acs_instrument_recovered,wavelength,1,44.52757,-125.38075,200.0,2905.0
+RS01SBPD-DP01A-05-OPTAAC102,recovered_wfp,dpc_acs_instrument_recovered,beam_attenuation,m-1,44.52757,-125.38075,200.0,2905.0
+RS01SBPD-DP01A-05-OPTAAC102,recovered_wfp,dpc_acs_instrument_recovered,optical_absorption,m-1,44.52757,-125.38075,200.0,2905.0
+RS01SBPD-DP01A-05-OPTAAC102,recovered_wfp,dpc_acs_instrument_recovered,wavelength_a,nm,44.52757,-125.38075,200.0,2905.0
+RS01SBPD-DP01A-05-OPTAAC102,recovered_wfp,dpc_acs_instrument_recovered,wavelength_c,nm,44.52757,-125.38075,200.0,2905.0
+RS01SBPD-DP01A-05-OPTAAC102,recovered_wfp,dpc_acs_instrument_recovered,wavelength,1,44.52757,-125.38075,200.0,2905.0
+RS01SBPD-DP01A-06-DOSTAD104,recovered_inst,dpc_optode_instrument_recovered,dissolved_oxygen,Œµmol kg-1,44.52757,-125.38075,200.0,2905.0
+RS01SBPD-DP01A-06-DOSTAD104,recovered_inst,dpc_optode_instrument_recovered,dosta_abcdjm_cspp_tc_oxygen,umol L-1,44.52757,-125.38075,200.0,2905.0
+RS01SBPD-DP01A-06-DOSTAD104,recovered_wfp,dpc_optode_instrument_recovered,dissolved_oxygen,Œµmol kg-1,44.52757,-125.38075,200.0,2905.0
+RS01SBPD-DP01A-06-DOSTAD104,recovered_wfp,dpc_optode_instrument_recovered,dosta_abcdjm_cspp_tc_oxygen,umol L-1,44.52757,-125.38075,200.0,2905.0
+RS01SBPS-PC01A-05-ADCPTD102,streamed,adcp_velocity_beam,corrected_echo_intensity_beam1,dB,44.52897,-125.38966,200.0,200.0
+RS01SBPS-PC01A-05-ADCPTD102,streamed,adcp_velocity_beam,corrected_echo_intensity_beam2,dB,44.52897,-125.38966,200.0,200.0
+RS01SBPS-PC01A-05-ADCPTD102,streamed,adcp_velocity_beam,corrected_echo_intensity_beam3,dB,44.52897,-125.38966,200.0,200.0
+RS01SBPS-PC01A-05-ADCPTD102,streamed,adcp_velocity_beam,corrected_echo_intensity_beam4,dB,44.52897,-125.38966,200.0,200.0
+RS01SBPS-PC01A-05-ADCPTD102,streamed,adcp_velocity_beam,eastward_seawater_velocity,m s-1,44.52897,-125.38966,200.0,200.0
+RS01SBPS-PC01A-05-ADCPTD102,streamed,adcp_velocity_beam,northward_seawater_velocity,m s-1,44.52897,-125.38966,200.0,200.0
+RS01SBPS-PC01A-05-ADCPTD102,streamed,adcp_velocity_beam,upward_seawater_velocity,m s-1,44.52897,-125.38966,200.0,200.0
+RS01SBPS-PC01A-05-ADCPTD102,streamed,adcp_velocity_beam,error_seawater_velocity,m s-1,44.52897,-125.38966,200.0,200.0
+RS01SBPS-PC01A-05-ADCPTD102,streamed,adcp_velocity_earth,corrected_echo_intensity_beam1,dB,44.52897,-125.38966,200.0,200.0
+RS01SBPS-PC01A-05-ADCPTD102,streamed,adcp_velocity_earth,corrected_echo_intensity_beam2,dB,44.52897,-125.38966,200.0,200.0
+RS01SBPS-PC01A-05-ADCPTD102,streamed,adcp_velocity_earth,corrected_echo_intensity_beam3,dB,44.52897,-125.38966,200.0,200.0
+RS01SBPS-PC01A-05-ADCPTD102,streamed,adcp_velocity_earth,corrected_echo_intensity_beam4,dB,44.52897,-125.38966,200.0,200.0
+RS01SBPS-PC01A-05-ADCPTD102,streamed,adcp_velocity_earth,eastward_seawater_velocity,m s-1,44.52897,-125.38966,200.0,200.0
+RS01SBPS-PC01A-05-ADCPTD102,streamed,adcp_velocity_earth,northward_seawater_velocity,m s-1,44.52897,-125.38966,200.0,200.0
+RS01SBPS-PC01A-05-ADCPTD102,streamed,adcp_velocity_earth,upward_seawater_velocity,m s-1,44.52897,-125.38966,200.0,200.0
+RS01SBPS-PC01A-05-ADCPTD102,streamed,adcp_velocity_earth,error_seawater_velocity,m s-1,44.52897,-125.38966,200.0,200.0
+RS01SBPS-PC01A-06-VADCPA101,streamed,adcp_velocity_earth,corrected_echo_intensity_beam1,dB,44.52897,-125.38966,200.0,200.0
+RS01SBPS-PC01A-06-VADCPA101,streamed,adcp_velocity_earth,corrected_echo_intensity_beam2,dB,44.52897,-125.38966,200.0,200.0
+RS01SBPS-PC01A-06-VADCPA101,streamed,adcp_velocity_earth,corrected_echo_intensity_beam3,dB,44.52897,-125.38966,200.0,200.0
+RS01SBPS-PC01A-06-VADCPA101,streamed,adcp_velocity_earth,corrected_echo_intensity_beam4,dB,44.52897,-125.38966,200.0,200.0
+RS01SBPS-PC01A-06-VADCPA101,streamed,adcp_velocity_earth,eastward_seawater_velocity,m s-1,44.52897,-125.38966,200.0,200.0
+RS01SBPS-PC01A-06-VADCPA101,streamed,adcp_velocity_earth,northward_seawater_velocity,m s-1,44.52897,-125.38966,200.0,200.0
+RS01SBPS-PC01A-06-VADCPA101,streamed,adcp_velocity_earth,upward_seawater_velocity,m s-1,44.52897,-125.38966,200.0,200.0
+RS01SBPS-PC01A-06-VADCPA101,streamed,adcp_velocity_earth,error_seawater_velocity,m s-1,44.52897,-125.38966,200.0,200.0
+RS01SBPS-PC01A-06-VADCPA101,streamed,vadcp_velocity_beam,corrected_echo_intensity_beam1,dB,44.52897,-125.38966,200.0,200.0
+RS01SBPS-PC01A-06-VADCPA101,streamed,vadcp_velocity_beam,corrected_echo_intensity_beam2,dB,44.52897,-125.38966,200.0,200.0
+RS01SBPS-PC01A-06-VADCPA101,streamed,vadcp_velocity_beam,corrected_echo_intensity_beam3,dB,44.52897,-125.38966,200.0,200.0
+RS01SBPS-PC01A-06-VADCPA101,streamed,vadcp_velocity_beam,corrected_echo_intensity_beam4,dB,44.52897,-125.38966,200.0,200.0
+RS01SBPS-PC01A-06-VADCPA101,streamed,vadcp_velocity_beam,eastward_seawater_velocity,m s-1,44.52897,-125.38966,200.0,200.0
+RS01SBPS-PC01A-06-VADCPA101,streamed,vadcp_velocity_beam,northward_seawater_velocity,m s-1,44.52897,-125.38966,200.0,200.0
+RS01SBPS-PC01A-06-VADCPA101,streamed,vadcp_velocity_beam,error_seawater_velocity,m s-1,44.52897,-125.38966,200.0,200.0
+RS01SBPS-PC01A-06-VADCPA101,streamed,vadcp_velocity_beam,estimated_upward_seawater_velocity,m s-1,44.52897,-125.38966,200.0,200.0
+RS01SBPS-PC01A-06-VADCPA101,streamed,vadcp_velocity_beam,upward_seawater_velocity,m s-1,44.52897,-125.38966,200.0,200.0
+RS01SBPS-PC01A-4A-CTDPFA103,streamed,ctdpf_optode_sample,density,kg m-3,44.52897,-125.38966,200.0,200.0
+RS01SBPS-PC01A-4A-CTDPFA103,streamed,ctdpf_optode_sample,practical_salinity,1,44.52897,-125.38966,200.0,200.0
+RS01SBPS-PC01A-4A-CTDPFA103,streamed,ctdpf_optode_sample,dissolved_oxygen,Œµmol kg-1,44.52897,-125.38966,200.0,200.0
+RS01SBPS-PC01A-4A-CTDPFA103,streamed,ctdpf_optode_sample,seawater_temperature,deg_C,44.52897,-125.38966,200.0,200.0
+RS01SBPS-PC01A-4A-CTDPFA103,streamed,ctdpf_optode_sample,seawater_pressure,dbar,44.52897,-125.38966,200.0,200.0
+RS01SBPS-PC01A-4A-CTDPFA103,streamed,ctdpf_optode_sample,seawater_conductivity,S m-1,44.52897,-125.38966,200.0,200.0
+RS01SBPS-PC01A-4A-CTDPFA103,streamed,ctdpf_optode_sample,ctd_tc_oxygen,umol L-1,44.52897,-125.38966,200.0,200.0
+RS01SBPS-PC01A-4A-DOSTAD103,streamed,ctdpf_optode_sample,density,kg m-3,44.52897,-125.38966,200.0,200.0
+RS01SBPS-PC01A-4A-DOSTAD103,streamed,ctdpf_optode_sample,practical_salinity,1,44.52897,-125.38966,200.0,200.0
+RS01SBPS-PC01A-4A-DOSTAD103,streamed,ctdpf_optode_sample,dissolved_oxygen,Œµmol kg-1,44.52897,-125.38966,200.0,200.0
+RS01SBPS-PC01A-4A-DOSTAD103,streamed,ctdpf_optode_sample,seawater_temperature,deg_C,44.52897,-125.38966,200.0,200.0
+RS01SBPS-PC01A-4A-DOSTAD103,streamed,ctdpf_optode_sample,seawater_pressure,dbar,44.52897,-125.38966,200.0,200.0
+RS01SBPS-PC01A-4A-DOSTAD103,streamed,ctdpf_optode_sample,seawater_conductivity,S m-1,44.52897,-125.38966,200.0,200.0
+RS01SBPS-PC01A-4A-DOSTAD103,streamed,ctdpf_optode_sample,ctd_tc_oxygen,umol L-1,44.52897,-125.38966,200.0,200.0
+RS01SBPS-PC01A-4B-PHSENA102,streamed,phsen_data_record,phsen_thermistor_temperature,V,44.52897,-125.38966,200.0,200.0
+RS01SBPS-PC01A-4B-PHSENA102,streamed,phsen_data_record,ph_seawater,1,44.52897,-125.38966,200.0,200.0
+RS01SBPS-PC01A-4C-FLORDD103,streamed,flort_d_data_record,seawater_scattering_coefficient,m-1,44.52897,-125.38966,200.0,200.0
+RS01SBPS-PC01A-4C-FLORDD103,streamed,flort_d_data_record,fluorometric_chlorophyll_a,Œµg L-1,44.52897,-125.38966,200.0,200.0
+RS01SBPS-PC01A-4C-FLORDD103,streamed,flort_d_data_record,fluorometric_cdom,ppb,44.52897,-125.38966,200.0,200.0
+RS01SBPS-PC01A-4C-FLORDD103,streamed,flort_d_data_record,optical_backscatter,m-1,44.52897,-125.38966,200.0,200.0
+RS01SBPS-SF01A-2A-CTDPFA102,streamed,ctdpf_sbe43_sample,density,kg m-3,44.52897,-125.38966,5.0,200.0
+RS01SBPS-SF01A-2A-CTDPFA102,streamed,ctdpf_sbe43_sample,practical_salinity,1,44.52897,-125.38966,5.0,200.0
+RS01SBPS-SF01A-2A-CTDPFA102,streamed,ctdpf_sbe43_sample,seawater_temperature,deg_C,44.52897,-125.38966,5.0,200.0
+RS01SBPS-SF01A-2A-CTDPFA102,streamed,ctdpf_sbe43_sample,seawater_pressure,dbar,44.52897,-125.38966,5.0,200.0
+RS01SBPS-SF01A-2A-CTDPFA102,streamed,ctdpf_sbe43_sample,seawater_conductivity,S m-1,44.52897,-125.38966,5.0,200.0
+RS01SBPS-SF01A-2A-CTDPFA102,streamed,ctdpf_sbe43_sample,corrected_dissolved_oxygen,Œµmol kg-1,44.52897,-125.38966,5.0,200.0
+RS01SBPS-SF01A-2A-DOFSTA102,streamed,ctdpf_sbe43_sample,density,kg m-3,44.52897,-125.38966,5.0,200.0
+RS01SBPS-SF01A-2A-DOFSTA102,streamed,ctdpf_sbe43_sample,practical_salinity,1,44.52897,-125.38966,5.0,200.0
+RS01SBPS-SF01A-2A-DOFSTA102,streamed,ctdpf_sbe43_sample,seawater_temperature,deg_C,44.52897,-125.38966,5.0,200.0
+RS01SBPS-SF01A-2A-DOFSTA102,streamed,ctdpf_sbe43_sample,seawater_pressure,dbar,44.52897,-125.38966,5.0,200.0
+RS01SBPS-SF01A-2A-DOFSTA102,streamed,ctdpf_sbe43_sample,seawater_conductivity,S m-1,44.52897,-125.38966,5.0,200.0
+RS01SBPS-SF01A-2A-DOFSTA102,streamed,ctdpf_sbe43_sample,corrected_dissolved_oxygen,Œµmol kg-1,44.52897,-125.38966,5.0,200.0
+RS01SBPS-SF01A-2D-PHSENA101,streamed,phsen_data_record,phsen_thermistor_temperature,V,44.52897,-125.38966,5.0,200.0
+RS01SBPS-SF01A-2D-PHSENA101,streamed,phsen_data_record,ph_seawater,1,44.52897,-125.38966,5.0,200.0
+RS01SBPS-SF01A-3A-FLORTD101,streamed,flort_d_data_record,seawater_scattering_coefficient,m-1,44.52897,-125.38966,5.0,200.0
+RS01SBPS-SF01A-3A-FLORTD101,streamed,flort_d_data_record,fluorometric_chlorophyll_a,Œµg L-1,44.52897,-125.38966,5.0,200.0
+RS01SBPS-SF01A-3A-FLORTD101,streamed,flort_d_data_record,fluorometric_cdom,ppb,44.52897,-125.38966,5.0,200.0
+RS01SBPS-SF01A-3A-FLORTD101,streamed,flort_d_data_record,optical_backscatter,m-1,44.52897,-125.38966,5.0,200.0
+RS01SBPS-SF01A-3B-OPTAAD101,streamed,optaa_sample,beam_attenuation,m-1,44.52897,-125.38966,5.0,200.0
+RS01SBPS-SF01A-3B-OPTAAD101,streamed,optaa_sample,optical_absorption,m-1,44.52897,-125.38966,5.0,200.0
+RS01SBPS-SF01A-3B-OPTAAD101,streamed,optaa_sample,wavelength_a,nm,44.52897,-125.38966,5.0,200.0
+RS01SBPS-SF01A-3B-OPTAAD101,streamed,optaa_sample,wavelength_c,nm,44.52897,-125.38966,5.0,200.0
+RS01SBPS-SF01A-3B-OPTAAD101,streamed,optaa_sample,wavelength,1,44.52897,-125.38966,5.0,200.0
+RS01SBPS-SF01A-3C-PARADA101,streamed,parad_sa_sample,par_counts_output,umol photons m-2 s-1,44.52897,-125.38966,5.0,200.0
+RS01SBPS-SF01A-3D-SPKIRA101,streamed,spkir_data_record,spkir_downwelling_vector,uW cm-2 nm-1,44.52897,-125.38966,5.0,200.0
+RS01SBPS-SF01A-4A-NUTNRA101,streamed,nutnr_a_dark_sample,nitrate_concentration,uMol L-1,44.52897,-125.38966,5.0,200.0
+RS01SBPS-SF01A-4A-NUTNRA101,streamed,nutnr_a_sample,salinity_corrected_nitrate,Œµmol L-1,44.52897,-125.38966,5.0,200.0
+RS01SBPS-SF01A-4A-NUTNRA101,streamed,nutnr_a_sample,nitrate_concentration,uMol L-1,44.52897,-125.38966,5.0,200.0
+RS01SBPS-SF01A-4B-VELPTD102,streamed,velpt_velocity_data,velpt_d_eastward_velocity,m s-1,44.52897,-125.38966,5.0,200.0
+RS01SBPS-SF01A-4B-VELPTD102,streamed,velpt_velocity_data,velpt_d_northward_velocity,m s-1,44.52897,-125.38966,5.0,200.0
+RS01SBPS-SF01A-4B-VELPTD102,streamed,velpt_velocity_data,velpt_d_upward_velocity,m s-1,44.52897,-125.38966,5.0,200.0
+RS01SBPS-SF01A-4B-VELPTD102,streamed,velpt_velocity_data,pressure_mbar,0.001 dbar,44.52897,-125.38966,5.0,200.0
+RS01SBPS-SF01A-4F-PCO2WA101,streamed,pco2w_a_sami_data_record,pco2w_thermistor_temperature,deg_C,44.52897,-125.38966,5.0,200.0
+RS01SBPS-SF01A-4F-PCO2WA101,streamed,pco2w_a_sami_data_record,pco2_seawater,uatm,44.52897,-125.38966,5.0,200.0
+RS01SLBS-LJ01A-05-HPIESA101,streamed,echo_sounding,hpies_pressure_L1,dbar,44.5223,-125.38041,2906.0,2906.0
+RS01SLBS-LJ01A-10-ADCPTE101,streamed,adcp_velocity_beam,corrected_echo_intensity_beam1,dB,44.51519,-125.38987,2905.0,2905.0
+RS01SLBS-LJ01A-10-ADCPTE101,streamed,adcp_velocity_beam,corrected_echo_intensity_beam2,dB,44.51519,-125.38987,2905.0,2905.0
+RS01SLBS-LJ01A-10-ADCPTE101,streamed,adcp_velocity_beam,corrected_echo_intensity_beam3,dB,44.51519,-125.38987,2905.0,2905.0
+RS01SLBS-LJ01A-10-ADCPTE101,streamed,adcp_velocity_beam,corrected_echo_intensity_beam4,dB,44.51519,-125.38987,2905.0,2905.0
+RS01SLBS-LJ01A-10-ADCPTE101,streamed,adcp_velocity_beam,eastward_seawater_velocity,m s-1,44.51519,-125.38987,2905.0,2905.0
+RS01SLBS-LJ01A-10-ADCPTE101,streamed,adcp_velocity_beam,northward_seawater_velocity,m s-1,44.51519,-125.38987,2905.0,2905.0
+RS01SLBS-LJ01A-10-ADCPTE101,streamed,adcp_velocity_beam,upward_seawater_velocity,m s-1,44.51519,-125.38987,2905.0,2905.0
+RS01SLBS-LJ01A-10-ADCPTE101,streamed,adcp_velocity_beam,error_seawater_velocity,m s-1,44.51519,-125.38987,2905.0,2905.0
+RS01SLBS-LJ01A-10-ADCPTE101,streamed,adcp_velocity_earth,corrected_echo_intensity_beam1,dB,44.51519,-125.38987,2905.0,2905.0
+RS01SLBS-LJ01A-10-ADCPTE101,streamed,adcp_velocity_earth,corrected_echo_intensity_beam2,dB,44.51519,-125.38987,2905.0,2905.0
+RS01SLBS-LJ01A-10-ADCPTE101,streamed,adcp_velocity_earth,corrected_echo_intensity_beam3,dB,44.51519,-125.38987,2905.0,2905.0
+RS01SLBS-LJ01A-10-ADCPTE101,streamed,adcp_velocity_earth,corrected_echo_intensity_beam4,dB,44.51519,-125.38987,2905.0,2905.0
+RS01SLBS-LJ01A-10-ADCPTE101,streamed,adcp_velocity_earth,eastward_seawater_velocity,m s-1,44.51519,-125.38987,2905.0,2905.0
+RS01SLBS-LJ01A-10-ADCPTE101,streamed,adcp_velocity_earth,northward_seawater_velocity,m s-1,44.51519,-125.38987,2905.0,2905.0
+RS01SLBS-LJ01A-10-ADCPTE101,streamed,adcp_velocity_earth,upward_seawater_velocity,m s-1,44.51519,-125.38987,2905.0,2905.0
+RS01SLBS-LJ01A-10-ADCPTE101,streamed,adcp_velocity_earth,error_seawater_velocity,m s-1,44.51519,-125.38987,2905.0,2905.0
+RS01SLBS-LJ01A-11-OPTAAC103,streamed,optaa_sample,beam_attenuation,m-1,44.51524,-125.38981,2924.0,2924.0
+RS01SLBS-LJ01A-11-OPTAAC103,streamed,optaa_sample,optical_absorption,m-1,44.51524,-125.38981,2924.0,2924.0
+RS01SLBS-LJ01A-11-OPTAAC103,streamed,optaa_sample,wavelength_a,nm,44.51524,-125.38981,2924.0,2924.0
+RS01SLBS-LJ01A-11-OPTAAC103,streamed,optaa_sample,wavelength_c,nm,44.51524,-125.38981,2924.0,2924.0
+RS01SLBS-LJ01A-11-OPTAAC103,streamed,optaa_sample,wavelength,1,44.51524,-125.38981,2924.0,2924.0
+RS01SLBS-LJ01A-12-CTDPFB101,streamed,ctdpf_optode_sample,density,kg m-3,44.51524,-125.38981,2924.0,2924.0
+RS01SLBS-LJ01A-12-CTDPFB101,streamed,ctdpf_optode_sample,practical_salinity,1,44.51524,-125.38981,2924.0,2924.0
+RS01SLBS-LJ01A-12-CTDPFB101,streamed,ctdpf_optode_sample,dissolved_oxygen,Œµmol kg-1,44.51524,-125.38981,2924.0,2924.0
+RS01SLBS-LJ01A-12-CTDPFB101,streamed,ctdpf_optode_sample,seawater_temperature,deg_C,44.51524,-125.38981,2924.0,2924.0
+RS01SLBS-LJ01A-12-CTDPFB101,streamed,ctdpf_optode_sample,seawater_pressure,dbar,44.51524,-125.38981,2924.0,2924.0
+RS01SLBS-LJ01A-12-CTDPFB101,streamed,ctdpf_optode_sample,seawater_conductivity,S m-1,44.51524,-125.38981,2924.0,2924.0
+RS01SLBS-LJ01A-12-CTDPFB101,streamed,ctdpf_optode_sample,ctd_tc_oxygen,umol L-1,44.51524,-125.38981,2924.0,2924.0
+RS01SLBS-LJ01A-12-DOSTAD101,streamed,ctdpf_optode_sample,density,kg m-3,44.51524,-125.38981,2924.0,2924.0
+RS01SLBS-LJ01A-12-DOSTAD101,streamed,ctdpf_optode_sample,practical_salinity,1,44.51524,-125.38981,2924.0,2924.0
+RS01SLBS-LJ01A-12-DOSTAD101,streamed,ctdpf_optode_sample,dissolved_oxygen,Œµmol kg-1,44.51524,-125.38981,2924.0,2924.0
+RS01SLBS-LJ01A-12-DOSTAD101,streamed,ctdpf_optode_sample,seawater_temperature,deg_C,44.51524,-125.38981,2924.0,2924.0
+RS01SLBS-LJ01A-12-DOSTAD101,streamed,ctdpf_optode_sample,seawater_pressure,dbar,44.51524,-125.38981,2924.0,2924.0
+RS01SLBS-LJ01A-12-DOSTAD101,streamed,ctdpf_optode_sample,seawater_conductivity,S m-1,44.51524,-125.38981,2924.0,2924.0
+RS01SLBS-LJ01A-12-DOSTAD101,streamed,ctdpf_optode_sample,ctd_tc_oxygen,umol L-1,44.51524,-125.38981,2924.0,2924.0
+RS01SLBS-MJ01A-06-PRESTA101,streamed,prest_real_time,seafloor_pressure,dbar,44.5097,-125.40526,2906.0,2906.0
+RS01SLBS-MJ01A-12-VEL3DB101,streamed,vel3d_b_sample,eastward_turbulent_velocity,m s-1,44.50969,-125.40527,2906.0,2906.0
+RS01SLBS-MJ01A-12-VEL3DB101,streamed,vel3d_b_sample,northward_turbulent_velocity,m s-1,44.50969,-125.40527,2906.0,2906.0
+RS01SLBS-MJ01A-12-VEL3DB101,streamed,vel3d_b_sample,upward_turbulent_velocity,m s-1,44.50969,-125.40527,2906.0,2906.0
+RS01SUM1-LJ01B-09-PRESTB102,streamed,prest_real_time,seafloor_pressure,dbar,44.56927,-125.14804,779.0,779.0
+RS01SUM1-LJ01B-12-VEL3DB104,streamed,vel3d_b_sample,eastward_turbulent_velocity,m s-1,44.56911,-125.14797,779.0,779.0
+RS01SUM1-LJ01B-12-VEL3DB104,streamed,vel3d_b_sample,northward_turbulent_velocity,m s-1,44.56911,-125.14797,779.0,779.0
+RS01SUM1-LJ01B-12-VEL3DB104,streamed,vel3d_b_sample,upward_turbulent_velocity,m s-1,44.56911,-125.14797,779.0,779.0
+RS01SUM2-MJ01B-00-OSMOIA101,recovered_inst,osmoi_a_subcon_instrument_recovered,temp,deg_C,45.93367,-130.01369,811.0,811.0
+RS01SUM2-MJ01B-12-ADCPSK101,streamed,adcp_velocity_beam,corrected_echo_intensity_beam1,dB,44.56984,-125.14682,811.0,811.0
+RS01SUM2-MJ01B-12-ADCPSK101,streamed,adcp_velocity_beam,corrected_echo_intensity_beam2,dB,44.56984,-125.14682,811.0,811.0
+RS01SUM2-MJ01B-12-ADCPSK101,streamed,adcp_velocity_beam,corrected_echo_intensity_beam3,dB,44.56984,-125.14682,811.0,811.0
+RS01SUM2-MJ01B-12-ADCPSK101,streamed,adcp_velocity_beam,corrected_echo_intensity_beam4,dB,44.56984,-125.14682,811.0,811.0
+RS01SUM2-MJ01B-12-ADCPSK101,streamed,adcp_velocity_beam,eastward_seawater_velocity,m s-1,44.56984,-125.14682,811.0,811.0
+RS01SUM2-MJ01B-12-ADCPSK101,streamed,adcp_velocity_beam,northward_seawater_velocity,m s-1,44.56984,-125.14682,811.0,811.0
+RS01SUM2-MJ01B-12-ADCPSK101,streamed,adcp_velocity_beam,upward_seawater_velocity,m s-1,44.56984,-125.14682,811.0,811.0
+RS01SUM2-MJ01B-12-ADCPSK101,streamed,adcp_velocity_beam,error_seawater_velocity,m s-1,44.56984,-125.14682,811.0,811.0
+RS01SUM2-MJ01B-12-ADCPSK101,streamed,adcp_velocity_earth,corrected_echo_intensity_beam1,dB,44.56984,-125.14682,811.0,811.0
+RS01SUM2-MJ01B-12-ADCPSK101,streamed,adcp_velocity_earth,corrected_echo_intensity_beam2,dB,44.56984,-125.14682,811.0,811.0
+RS01SUM2-MJ01B-12-ADCPSK101,streamed,adcp_velocity_earth,corrected_echo_intensity_beam3,dB,44.56984,-125.14682,811.0,811.0
+RS01SUM2-MJ01B-12-ADCPSK101,streamed,adcp_velocity_earth,corrected_echo_intensity_beam4,dB,44.56984,-125.14682,811.0,811.0
+RS01SUM2-MJ01B-12-ADCPSK101,streamed,adcp_velocity_earth,eastward_seawater_velocity,m s-1,44.56984,-125.14682,811.0,811.0
+RS01SUM2-MJ01B-12-ADCPSK101,streamed,adcp_velocity_earth,northward_seawater_velocity,m s-1,44.56984,-125.14682,811.0,811.0
+RS01SUM2-MJ01B-12-ADCPSK101,streamed,adcp_velocity_earth,upward_seawater_velocity,m s-1,44.56984,-125.14682,811.0,811.0
+RS01SUM2-MJ01B-12-ADCPSK101,streamed,adcp_velocity_earth,error_seawater_velocity,m s-1,44.56984,-125.14682,811.0,811.0
+RS03ASHS-MJ03B-00-OSMOIA301,recovered_inst,osmoi_a_subcon_instrument_recovered,temp,deg_C,45.93367,-130.01369,1552.0,1552.0
+RS03ASHS-MJ03B-07-TMPSFA301,streamed,tmpsf_sample,temperature01,deg_C,45.93362,-130.01368,1552.0,1552.0
+RS03ASHS-MJ03B-07-TMPSFA301,streamed,tmpsf_sample,temperature02,deg_C,45.93362,-130.01368,1552.0,1552.0
+RS03ASHS-MJ03B-07-TMPSFA301,streamed,tmpsf_sample,temperature03,deg_C,45.93362,-130.01368,1552.0,1552.0
+RS03ASHS-MJ03B-07-TMPSFA301,streamed,tmpsf_sample,temperature04,deg_C,45.93362,-130.01368,1552.0,1552.0
+RS03ASHS-MJ03B-07-TMPSFA301,streamed,tmpsf_sample,temperature05,deg_C,45.93362,-130.01368,1552.0,1552.0
+RS03ASHS-MJ03B-07-TMPSFA301,streamed,tmpsf_sample,temperature06,deg_C,45.93362,-130.01368,1552.0,1552.0
+RS03ASHS-MJ03B-07-TMPSFA301,streamed,tmpsf_sample,temperature07,deg_C,45.93362,-130.01368,1552.0,1552.0
+RS03ASHS-MJ03B-07-TMPSFA301,streamed,tmpsf_sample,temperature08,deg_C,45.93362,-130.01368,1552.0,1552.0
+RS03ASHS-MJ03B-07-TMPSFA301,streamed,tmpsf_sample,temperature09,deg_C,45.93362,-130.01368,1552.0,1552.0
+RS03ASHS-MJ03B-07-TMPSFA301,streamed,tmpsf_sample,temperature10,deg_C,45.93362,-130.01368,1552.0,1552.0
+RS03ASHS-MJ03B-07-TMPSFA301,streamed,tmpsf_sample,temperature11,deg_C,45.93362,-130.01368,1552.0,1552.0
+RS03ASHS-MJ03B-07-TMPSFA301,streamed,tmpsf_sample,temperature12,deg_C,45.93362,-130.01368,1552.0,1552.0
+RS03ASHS-MJ03B-07-TMPSFA301,streamed,tmpsf_sample,temperature13,deg_C,45.93362,-130.01368,1552.0,1552.0
+RS03ASHS-MJ03B-07-TMPSFA301,streamed,tmpsf_sample,temperature14,deg_C,45.93362,-130.01368,1552.0,1552.0
+RS03ASHS-MJ03B-07-TMPSFA301,streamed,tmpsf_sample,temperature15,deg_C,45.93362,-130.01368,1552.0,1552.0
+RS03ASHS-MJ03B-07-TMPSFA301,streamed,tmpsf_sample,temperature16,deg_C,45.93362,-130.01368,1552.0,1552.0
+RS03ASHS-MJ03B-07-TMPSFA301,streamed,tmpsf_sample,temperature17,deg_C,45.93362,-130.01368,1552.0,1552.0
+RS03ASHS-MJ03B-07-TMPSFA301,streamed,tmpsf_sample,temperature18,deg_C,45.93362,-130.01368,1552.0,1552.0
+RS03ASHS-MJ03B-07-TMPSFA301,streamed,tmpsf_sample,temperature19,deg_C,45.93362,-130.01368,1552.0,1552.0
+RS03ASHS-MJ03B-07-TMPSFA301,streamed,tmpsf_sample,temperature20,deg_C,45.93362,-130.01368,1552.0,1552.0
+RS03ASHS-MJ03B-07-TMPSFA301,streamed,tmpsf_sample,temperature21,deg_C,45.93362,-130.01368,1552.0,1552.0
+RS03ASHS-MJ03B-07-TMPSFA301,streamed,tmpsf_sample,temperature22,deg_C,45.93362,-130.01368,1552.0,1552.0
+RS03ASHS-MJ03B-07-TMPSFA301,streamed,tmpsf_sample,temperature23,deg_C,45.93362,-130.01368,1552.0,1552.0
+RS03ASHS-MJ03B-07-TMPSFA301,streamed,tmpsf_sample,temperature24,deg_C,45.93362,-130.01368,1552.0,1552.0
+RS03ASHS-MJ03B-09-BOTPTA304,streamed,botpt_lily_sample,corrected_compass_direction,degrees,45.93363,-130.01368,1552.0,1552.0
+RS03ASHS-MJ03B-09-BOTPTA304,streamed,botpt_lily_sample,seafloor_tilt_magnitude,urad,45.93363,-130.01368,1552.0,1552.0
+RS03ASHS-MJ03B-09-BOTPTA304,streamed,botpt_lily_sample,seafloor_tilt_direction,degrees,45.93363,-130.01368,1552.0,1552.0
+RS03ASHS-MJ03B-09-BOTPTA304,streamed,botpt_nano_sample,bottom_pressure,psia,45.93363,-130.01368,1552.0,1552.0
+RS03ASHS-MJ03B-09-BOTPTA304,streamed,botpt_nano_sample_24hr,botsflu_daydepth,m,45.93363,-130.01368,1552.0,1552.0
+RS03ASHS-MJ03B-09-BOTPTA304,streamed,botpt_nano_sample_24hr,botsflu_4wkrate,cm yr-1,45.93363,-130.01368,1552.0,1552.0
+RS03ASHS-MJ03B-09-BOTPTA304,streamed,botpt_nano_sample_24hr,botsflu_8wkrate,cm yr-1,45.93363,-130.01368,1552.0,1552.0
+RS03ASHS-MJ03B-09-BOTPTA304,streamed,botpt_nano_sample_15s,botsflu_meanpres,psi,45.93363,-130.01368,1552.0,1552.0
+RS03ASHS-MJ03B-09-BOTPTA304,streamed,botpt_nano_sample_15s,botsflu_meandepth,m,45.93363,-130.01368,1552.0,1552.0
+RS03ASHS-MJ03B-09-BOTPTA304,streamed,botpt_nano_sample_15s,botsflu_5minrate,cm min-1,45.93363,-130.01368,1552.0,1552.0
+RS03ASHS-MJ03B-09-BOTPTA304,streamed,botpt_nano_sample_15s,botsflu_10minrate,cm hr-1,45.93363,-130.01368,1552.0,1552.0
+RS03ASHS-MJ03B-09-BOTPTA304,streamed,botpt_nano_sample_15s,botsflu_predtide,m,45.93363,-130.01368,1552.0,1552.0
+RS03ASHS-MJ03B-10-CTDPFB304,streamed,ctdpf_optode_sample,density,kg m-3,45.93363,-130.01368,1552.0,1552.0
+RS03ASHS-MJ03B-10-CTDPFB304,streamed,ctdpf_optode_sample,practical_salinity,1,45.93363,-130.01368,1552.0,1552.0
+RS03ASHS-MJ03B-10-CTDPFB304,streamed,ctdpf_optode_sample,dissolved_oxygen,Œµmol kg-1,45.93363,-130.01368,1552.0,1552.0
+RS03ASHS-MJ03B-10-CTDPFB304,streamed,ctdpf_optode_sample,seawater_temperature,deg_C,45.93363,-130.01368,1552.0,1552.0
+RS03ASHS-MJ03B-10-CTDPFB304,streamed,ctdpf_optode_sample,seawater_pressure,dbar,45.93363,-130.01368,1552.0,1552.0
+RS03ASHS-MJ03B-10-CTDPFB304,streamed,ctdpf_optode_sample,seawater_conductivity,S m-1,45.93363,-130.01368,1552.0,1552.0
+RS03ASHS-MJ03B-10-CTDPFB304,streamed,ctdpf_optode_sample,ctd_tc_oxygen,umol L-1,45.93363,-130.01368,1552.0,1552.0
+RS03AXBS-LJ03A-05-HPIESA301,streamed,echo_sounding,hpies_pressure_L1,dbar,45.82405,-129.75995,2639.0,2639.0
+RS03AXBS-LJ03A-10-ADCPTE303,streamed,adcp_velocity_beam,corrected_echo_intensity_beam1,dB,45.81681,-129.75421,2594.0,2594.0
+RS03AXBS-LJ03A-10-ADCPTE303,streamed,adcp_velocity_beam,corrected_echo_intensity_beam2,dB,45.81681,-129.75421,2594.0,2594.0
+RS03AXBS-LJ03A-10-ADCPTE303,streamed,adcp_velocity_beam,corrected_echo_intensity_beam3,dB,45.81681,-129.75421,2594.0,2594.0
+RS03AXBS-LJ03A-10-ADCPTE303,streamed,adcp_velocity_beam,corrected_echo_intensity_beam4,dB,45.81681,-129.75421,2594.0,2594.0
+RS03AXBS-LJ03A-10-ADCPTE303,streamed,adcp_velocity_beam,eastward_seawater_velocity,m s-1,45.81681,-129.75421,2594.0,2594.0
+RS03AXBS-LJ03A-10-ADCPTE303,streamed,adcp_velocity_beam,northward_seawater_velocity,m s-1,45.81681,-129.75421,2594.0,2594.0
+RS03AXBS-LJ03A-10-ADCPTE303,streamed,adcp_velocity_beam,upward_seawater_velocity,m s-1,45.81681,-129.75421,2594.0,2594.0
+RS03AXBS-LJ03A-10-ADCPTE303,streamed,adcp_velocity_beam,error_seawater_velocity,m s-1,45.81681,-129.75421,2594.0,2594.0
+RS03AXBS-LJ03A-10-ADCPTE303,streamed,adcp_velocity_earth,corrected_echo_intensity_beam1,dB,45.81681,-129.75421,2594.0,2594.0
+RS03AXBS-LJ03A-10-ADCPTE303,streamed,adcp_velocity_earth,corrected_echo_intensity_beam2,dB,45.81681,-129.75421,2594.0,2594.0
+RS03AXBS-LJ03A-10-ADCPTE303,streamed,adcp_velocity_earth,corrected_echo_intensity_beam3,dB,45.81681,-129.75421,2594.0,2594.0
+RS03AXBS-LJ03A-10-ADCPTE303,streamed,adcp_velocity_earth,corrected_echo_intensity_beam4,dB,45.81681,-129.75421,2594.0,2594.0
+RS03AXBS-LJ03A-10-ADCPTE303,streamed,adcp_velocity_earth,eastward_seawater_velocity,m s-1,45.81681,-129.75421,2594.0,2594.0
+RS03AXBS-LJ03A-10-ADCPTE303,streamed,adcp_velocity_earth,northward_seawater_velocity,m s-1,45.81681,-129.75421,2594.0,2594.0
+RS03AXBS-LJ03A-10-ADCPTE303,streamed,adcp_velocity_earth,upward_seawater_velocity,m s-1,45.81681,-129.75421,2594.0,2594.0
+RS03AXBS-LJ03A-10-ADCPTE303,streamed,adcp_velocity_earth,error_seawater_velocity,m s-1,45.81681,-129.75421,2594.0,2594.0
+RS03AXBS-LJ03A-11-OPTAAC303,streamed,optaa_sample,beam_attenuation,m-1,45.81688,-129.75425,2594.0,2594.0
+RS03AXBS-LJ03A-11-OPTAAC303,streamed,optaa_sample,optical_absorption,m-1,45.81688,-129.75425,2594.0,2594.0
+RS03AXBS-LJ03A-11-OPTAAC303,streamed,optaa_sample,wavelength_a,nm,45.81688,-129.75425,2594.0,2594.0
+RS03AXBS-LJ03A-11-OPTAAC303,streamed,optaa_sample,wavelength_c,nm,45.81688,-129.75425,2594.0,2594.0
+RS03AXBS-LJ03A-11-OPTAAC303,streamed,optaa_sample,wavelength,1,45.81688,-129.75425,2594.0,2594.0
+RS03AXBS-LJ03A-12-CTDPFB301,streamed,ctdpf_optode_sample,density,kg m-3,45.81688,-129.75425,2522.0,2522.0
+RS03AXBS-LJ03A-12-CTDPFB301,streamed,ctdpf_optode_sample,practical_salinity,1,45.81688,-129.75425,2522.0,2522.0
+RS03AXBS-LJ03A-12-CTDPFB301,streamed,ctdpf_optode_sample,dissolved_oxygen,Œµmol kg-1,45.81688,-129.75425,2522.0,2522.0
+RS03AXBS-LJ03A-12-CTDPFB301,streamed,ctdpf_optode_sample,seawater_temperature,deg_C,45.81688,-129.75425,2522.0,2522.0
+RS03AXBS-LJ03A-12-CTDPFB301,streamed,ctdpf_optode_sample,seawater_pressure,dbar,45.81688,-129.75425,2522.0,2522.0
+RS03AXBS-LJ03A-12-CTDPFB301,streamed,ctdpf_optode_sample,seawater_conductivity,S m-1,45.81688,-129.75425,2522.0,2522.0
+RS03AXBS-LJ03A-12-CTDPFB301,streamed,ctdpf_optode_sample,ctd_tc_oxygen,umol L-1,45.81688,-129.75425,2522.0,2522.0
+RS03AXBS-LJ03A-12-DOSTAD301,streamed,ctdpf_optode_sample,density,kg m-3,45.81688,-129.75425,2522.0,2522.0
+RS03AXBS-LJ03A-12-DOSTAD301,streamed,ctdpf_optode_sample,practical_salinity,1,45.81688,-129.75425,2522.0,2522.0
+RS03AXBS-LJ03A-12-DOSTAD301,streamed,ctdpf_optode_sample,dissolved_oxygen,Œµmol kg-1,45.81688,-129.75425,2522.0,2522.0
+RS03AXBS-LJ03A-12-DOSTAD301,streamed,ctdpf_optode_sample,seawater_temperature,deg_C,45.81688,-129.75425,2522.0,2522.0
+RS03AXBS-LJ03A-12-DOSTAD301,streamed,ctdpf_optode_sample,seawater_pressure,dbar,45.81688,-129.75425,2522.0,2522.0
+RS03AXBS-LJ03A-12-DOSTAD301,streamed,ctdpf_optode_sample,seawater_conductivity,S m-1,45.81688,-129.75425,2522.0,2522.0
+RS03AXBS-LJ03A-12-DOSTAD301,streamed,ctdpf_optode_sample,ctd_tc_oxygen,umol L-1,45.81688,-129.75425,2522.0,2522.0
+RS03AXBS-MJ03A-06-PRESTA301,streamed,prest_real_time,seafloor_pressure,dbar,45.82023,-129.73637,2642.0,2642.0
+RS03AXBS-MJ03A-12-VEL3DB301,streamed,vel3d_b_sample,eastward_turbulent_velocity,m s-1,45.8202,-129.73636,2642.0,2642.0
+RS03AXBS-MJ03A-12-VEL3DB301,streamed,vel3d_b_sample,northward_turbulent_velocity,m s-1,45.8202,-129.73636,2642.0,2642.0
+RS03AXBS-MJ03A-12-VEL3DB301,streamed,vel3d_b_sample,upward_turbulent_velocity,m s-1,45.8202,-129.73636,2642.0,2642.0
+RS03AXPD-DP03A-01-CTDPFL304,recovered_inst,dpc_ctd_instrument_recovered,pressure,dbar,45.82972,-129.75904,150.0,2465.0
+RS03AXPD-DP03A-01-CTDPFL304,recovered_inst,dpc_ctd_instrument_recovered,density,kg m-3,45.82972,-129.75904,150.0,2465.0
+RS03AXPD-DP03A-01-CTDPFL304,recovered_inst,dpc_ctd_instrument_recovered,temp,deg_C,45.82972,-129.75904,150.0,2465.0
+RS03AXPD-DP03A-01-CTDPFL304,recovered_inst,dpc_ctd_instrument_recovered,practical_salinity,1,45.82972,-129.75904,150.0,2465.0
+RS03AXPD-DP03A-01-CTDPFL304,recovered_inst,dpc_ctd_instrument_recovered,dpc_ctd_seawater_conductivity,S m-1,45.82972,-129.75904,150.0,2465.0
+RS03AXPD-DP03A-01-CTDPFL304,recovered_wfp,dpc_ctd_instrument_recovered,pressure,dbar,45.82972,-129.75904,150.0,2465.0
+RS03AXPD-DP03A-01-CTDPFL304,recovered_wfp,dpc_ctd_instrument_recovered,density,kg m-3,45.82972,-129.75904,150.0,2465.0
+RS03AXPD-DP03A-01-CTDPFL304,recovered_wfp,dpc_ctd_instrument_recovered,temp,deg_C,45.82972,-129.75904,150.0,2465.0
+RS03AXPD-DP03A-01-CTDPFL304,recovered_wfp,dpc_ctd_instrument_recovered,practical_salinity,1,45.82972,-129.75904,150.0,2465.0
+RS03AXPD-DP03A-01-CTDPFL304,recovered_wfp,dpc_ctd_instrument_recovered,dpc_ctd_seawater_conductivity,S m-1,45.82972,-129.75904,150.0,2465.0
+RS03AXPD-DP03A-02-VEL3DA303,recovered_inst,dpc_acm_instrument_recovered,vel3d_a_eastward_velocity,m s-1,45.82972,-129.75904,150.0,2465.0
+RS03AXPD-DP03A-02-VEL3DA303,recovered_inst,dpc_acm_instrument_recovered,vel3d_a_northward_velocity,m s-1,45.82972,-129.75904,150.0,2465.0
+RS03AXPD-DP03A-02-VEL3DA303,recovered_inst,dpc_acm_instrument_recovered,vel3d_a_upward_velocity_ascending,m s-1,45.82972,-129.75904,150.0,2465.0
+RS03AXPD-DP03A-02-VEL3DA303,recovered_inst,dpc_acm_instrument_recovered,vel3d_a_upward_velocity_descending,m s-1,45.82972,-129.75904,150.0,2465.0
+RS03AXPD-DP03A-02-VEL3DA303,recovered_wfp,dpc_acm_instrument_recovered,vel3d_a_eastward_velocity,m s-1,45.82972,-129.75904,150.0,2465.0
+RS03AXPD-DP03A-02-VEL3DA303,recovered_wfp,dpc_acm_instrument_recovered,vel3d_a_northward_velocity,m s-1,45.82972,-129.75904,150.0,2465.0
+RS03AXPD-DP03A-02-VEL3DA303,recovered_wfp,dpc_acm_instrument_recovered,vel3d_a_upward_velocity_ascending,m s-1,45.82972,-129.75904,150.0,2465.0
+RS03AXPD-DP03A-02-VEL3DA303,recovered_wfp,dpc_acm_instrument_recovered,vel3d_a_upward_velocity_descending,m s-1,45.82972,-129.75904,150.0,2465.0
+RS03AXPD-DP03A-03-FLCDRA302,recovered_inst,dpc_flcdrtd_instrument_recovered,flcdr_x_mmp_cds_fluorometric_cdom,ppb,45.82972,-129.75904,150.0,2465.0
+RS03AXPD-DP03A-03-FLCDRA302,recovered_wfp,dpc_flcdrtd_instrument_recovered,flcdr_x_mmp_cds_fluorometric_cdom,ppb,45.82972,-129.75904,150.0,2465.0
+RS03AXPD-DP03A-03-FLNTUA302,recovered_inst,dpc_flnturtd_instrument_recovered,flntu_x_mmp_cds_total_volume_scattering_coefficient,m-1 sr-1,45.82972,-129.75904,150.0,2465.0
+RS03AXPD-DP03A-03-FLNTUA302,recovered_inst,dpc_flnturtd_instrument_recovered,flntu_x_mmp_cds_fluorometric_chlorophyll_a,ug L-1,45.82972,-129.75904,150.0,2465.0
+RS03AXPD-DP03A-03-FLNTUA302,recovered_inst,dpc_flnturtd_instrument_recovered,flntu_x_mmp_cds_bback_total,m-1,45.82972,-129.75904,150.0,2465.0
+RS03AXPD-DP03A-03-FLNTUA302,recovered_wfp,dpc_flnturtd_instrument_recovered,flntu_x_mmp_cds_total_volume_scattering_coefficient,m-1 sr-1,45.82972,-129.75904,150.0,2465.0
+RS03AXPD-DP03A-03-FLNTUA302,recovered_wfp,dpc_flnturtd_instrument_recovered,flntu_x_mmp_cds_fluorometric_chlorophyll_a,ug L-1,45.82972,-129.75904,150.0,2465.0
+RS03AXPD-DP03A-03-FLNTUA302,recovered_wfp,dpc_flnturtd_instrument_recovered,flntu_x_mmp_cds_bback_total,m-1,45.82972,-129.75904,150.0,2465.0
+RS03AXPD-DP03A-06-DOSTAD304,recovered_inst,dpc_optode_instrument_recovered,dissolved_oxygen,Œµmol kg-1,45.82972,-129.75904,150.0,2465.0
+RS03AXPD-DP03A-06-DOSTAD304,recovered_inst,dpc_optode_instrument_recovered,dosta_abcdjm_cspp_tc_oxygen,umol L-1,45.82972,-129.75904,150.0,2465.0
+RS03AXPD-DP03A-06-DOSTAD304,recovered_wfp,dpc_optode_instrument_recovered,dissolved_oxygen,Œµmol kg-1,45.82972,-129.75904,150.0,2465.0
+RS03AXPD-DP03A-06-DOSTAD304,recovered_wfp,dpc_optode_instrument_recovered,dosta_abcdjm_cspp_tc_oxygen,umol L-1,45.82972,-129.75904,150.0,2465.0
+RS03AXPS-PC03A-05-ADCPTD302,streamed,adcp_velocity_beam,corrected_echo_intensity_beam1,dB,45.83049,-129.75326,200.0,200.0
+RS03AXPS-PC03A-05-ADCPTD302,streamed,adcp_velocity_beam,corrected_echo_intensity_beam2,dB,45.83049,-129.75326,200.0,200.0
+RS03AXPS-PC03A-05-ADCPTD302,streamed,adcp_velocity_beam,corrected_echo_intensity_beam3,dB,45.83049,-129.75326,200.0,200.0
+RS03AXPS-PC03A-05-ADCPTD302,streamed,adcp_velocity_beam,corrected_echo_intensity_beam4,dB,45.83049,-129.75326,200.0,200.0
+RS03AXPS-PC03A-05-ADCPTD302,streamed,adcp_velocity_beam,eastward_seawater_velocity,m s-1,45.83049,-129.75326,200.0,200.0
+RS03AXPS-PC03A-05-ADCPTD302,streamed,adcp_velocity_beam,northward_seawater_velocity,m s-1,45.83049,-129.75326,200.0,200.0
+RS03AXPS-PC03A-05-ADCPTD302,streamed,adcp_velocity_beam,upward_seawater_velocity,m s-1,45.83049,-129.75326,200.0,200.0
+RS03AXPS-PC03A-05-ADCPTD302,streamed,adcp_velocity_beam,error_seawater_velocity,m s-1,45.83049,-129.75326,200.0,200.0
+RS03AXPS-PC03A-05-ADCPTD302,streamed,adcp_velocity_earth,corrected_echo_intensity_beam1,dB,45.83049,-129.75326,200.0,200.0
+RS03AXPS-PC03A-05-ADCPTD302,streamed,adcp_velocity_earth,corrected_echo_intensity_beam2,dB,45.83049,-129.75326,200.0,200.0
+RS03AXPS-PC03A-05-ADCPTD302,streamed,adcp_velocity_earth,corrected_echo_intensity_beam3,dB,45.83049,-129.75326,200.0,200.0
+RS03AXPS-PC03A-05-ADCPTD302,streamed,adcp_velocity_earth,corrected_echo_intensity_beam4,dB,45.83049,-129.75326,200.0,200.0
+RS03AXPS-PC03A-05-ADCPTD302,streamed,adcp_velocity_earth,eastward_seawater_velocity,m s-1,45.83049,-129.75326,200.0,200.0
+RS03AXPS-PC03A-05-ADCPTD302,streamed,adcp_velocity_earth,northward_seawater_velocity,m s-1,45.83049,-129.75326,200.0,200.0
+RS03AXPS-PC03A-05-ADCPTD302,streamed,adcp_velocity_earth,upward_seawater_velocity,m s-1,45.83049,-129.75326,200.0,200.0
+RS03AXPS-PC03A-05-ADCPTD302,streamed,adcp_velocity_earth,error_seawater_velocity,m s-1,45.83049,-129.75326,200.0,200.0
+RS03AXPS-PC03A-06-VADCPA301,streamed,adcp_velocity_earth,corrected_echo_intensity_beam1,dB,45.83049,-129.75326,200.0,200.0
+RS03AXPS-PC03A-06-VADCPA301,streamed,adcp_velocity_earth,corrected_echo_intensity_beam2,dB,45.83049,-129.75326,200.0,200.0
+RS03AXPS-PC03A-06-VADCPA301,streamed,adcp_velocity_earth,corrected_echo_intensity_beam3,dB,45.83049,-129.75326,200.0,200.0
+RS03AXPS-PC03A-06-VADCPA301,streamed,adcp_velocity_earth,corrected_echo_intensity_beam4,dB,45.83049,-129.75326,200.0,200.0
+RS03AXPS-PC03A-06-VADCPA301,streamed,adcp_velocity_earth,eastward_seawater_velocity,m s-1,45.83049,-129.75326,200.0,200.0
+RS03AXPS-PC03A-06-VADCPA301,streamed,adcp_velocity_earth,northward_seawater_velocity,m s-1,45.83049,-129.75326,200.0,200.0
+RS03AXPS-PC03A-06-VADCPA301,streamed,adcp_velocity_earth,upward_seawater_velocity,m s-1,45.83049,-129.75326,200.0,200.0
+RS03AXPS-PC03A-06-VADCPA301,streamed,adcp_velocity_earth,error_seawater_velocity,m s-1,45.83049,-129.75326,200.0,200.0
+RS03AXPS-PC03A-06-VADCPA301,streamed,vadcp_velocity_beam,corrected_echo_intensity_beam1,dB,45.83049,-129.75326,200.0,200.0
+RS03AXPS-PC03A-06-VADCPA301,streamed,vadcp_velocity_beam,corrected_echo_intensity_beam2,dB,45.83049,-129.75326,200.0,200.0
+RS03AXPS-PC03A-06-VADCPA301,streamed,vadcp_velocity_beam,corrected_echo_intensity_beam3,dB,45.83049,-129.75326,200.0,200.0
+RS03AXPS-PC03A-06-VADCPA301,streamed,vadcp_velocity_beam,corrected_echo_intensity_beam4,dB,45.83049,-129.75326,200.0,200.0
+RS03AXPS-PC03A-06-VADCPA301,streamed,vadcp_velocity_beam,eastward_seawater_velocity,m s-1,45.83049,-129.75326,200.0,200.0
+RS03AXPS-PC03A-06-VADCPA301,streamed,vadcp_velocity_beam,northward_seawater_velocity,m s-1,45.83049,-129.75326,200.0,200.0
+RS03AXPS-PC03A-06-VADCPA301,streamed,vadcp_velocity_beam,error_seawater_velocity,m s-1,45.83049,-129.75326,200.0,200.0
+RS03AXPS-PC03A-06-VADCPA301,streamed,vadcp_velocity_beam,estimated_upward_seawater_velocity,m s-1,45.83049,-129.75326,200.0,200.0
+RS03AXPS-PC03A-06-VADCPA301,streamed,vadcp_velocity_beam,upward_seawater_velocity,m s-1,45.83049,-129.75326,200.0,200.0
+RS03AXPS-PC03A-4A-CTDPFA303,streamed,ctdpf_optode_sample,density,kg m-3,45.83049,-129.75326,200.0,200.0
+RS03AXPS-PC03A-4A-CTDPFA303,streamed,ctdpf_optode_sample,practical_salinity,1,45.83049,-129.75326,200.0,200.0
+RS03AXPS-PC03A-4A-CTDPFA303,streamed,ctdpf_optode_sample,dissolved_oxygen,Œµmol kg-1,45.83049,-129.75326,200.0,200.0
+RS03AXPS-PC03A-4A-CTDPFA303,streamed,ctdpf_optode_sample,seawater_temperature,deg_C,45.83049,-129.75326,200.0,200.0
+RS03AXPS-PC03A-4A-CTDPFA303,streamed,ctdpf_optode_sample,seawater_pressure,dbar,45.83049,-129.75326,200.0,200.0
+RS03AXPS-PC03A-4A-CTDPFA303,streamed,ctdpf_optode_sample,seawater_conductivity,S m-1,45.83049,-129.75326,200.0,200.0
+RS03AXPS-PC03A-4A-CTDPFA303,streamed,ctdpf_optode_sample,ctd_tc_oxygen,umol L-1,45.83049,-129.75326,200.0,200.0
+RS03AXPS-PC03A-4A-DOSTAD303,streamed,ctdpf_optode_sample,density,kg m-3,45.83049,-129.75326,200.0,200.0
+RS03AXPS-PC03A-4A-DOSTAD303,streamed,ctdpf_optode_sample,practical_salinity,1,45.83049,-129.75326,200.0,200.0
+RS03AXPS-PC03A-4A-DOSTAD303,streamed,ctdpf_optode_sample,dissolved_oxygen,Œµmol kg-1,45.83049,-129.75326,200.0,200.0
+RS03AXPS-PC03A-4A-DOSTAD303,streamed,ctdpf_optode_sample,seawater_temperature,deg_C,45.83049,-129.75326,200.0,200.0
+RS03AXPS-PC03A-4A-DOSTAD303,streamed,ctdpf_optode_sample,seawater_pressure,dbar,45.83049,-129.75326,200.0,200.0
+RS03AXPS-PC03A-4A-DOSTAD303,streamed,ctdpf_optode_sample,seawater_conductivity,S m-1,45.83049,-129.75326,200.0,200.0
+RS03AXPS-PC03A-4A-DOSTAD303,streamed,ctdpf_optode_sample,ctd_tc_oxygen,umol L-1,45.83049,-129.75326,200.0,200.0
+RS03AXPS-PC03A-4B-PHSENA302,streamed,phsen_data_record,phsen_thermistor_temperature,V,45.83049,-129.75326,200.0,200.0
+RS03AXPS-PC03A-4B-PHSENA302,streamed,phsen_data_record,ph_seawater,1,45.83049,-129.75326,200.0,200.0
+RS03AXPS-PC03A-4C-FLORDD303,streamed,flort_d_data_record,seawater_scattering_coefficient,m-1,45.83049,-129.75326,200.0,200.0
+RS03AXPS-PC03A-4C-FLORDD303,streamed,flort_d_data_record,fluorometric_chlorophyll_a,Œµg L-1,45.83049,-129.75326,200.0,200.0
+RS03AXPS-PC03A-4C-FLORDD303,streamed,flort_d_data_record,fluorometric_cdom,ppb,45.83049,-129.75326,200.0,200.0
+RS03AXPS-PC03A-4C-FLORDD303,streamed,flort_d_data_record,optical_backscatter,m-1,45.83049,-129.75326,200.0,200.0
+RS03AXPS-SF03A-2A-CTDPFA302,streamed,ctdpf_sbe43_sample,density,kg m-3,45.83049,-129.75326,5.0,200.0
+RS03AXPS-SF03A-2A-CTDPFA302,streamed,ctdpf_sbe43_sample,practical_salinity,1,45.83049,-129.75326,5.0,200.0
+RS03AXPS-SF03A-2A-CTDPFA302,streamed,ctdpf_sbe43_sample,seawater_temperature,deg_C,45.83049,-129.75326,5.0,200.0
+RS03AXPS-SF03A-2A-CTDPFA302,streamed,ctdpf_sbe43_sample,seawater_pressure,dbar,45.83049,-129.75326,5.0,200.0
+RS03AXPS-SF03A-2A-CTDPFA302,streamed,ctdpf_sbe43_sample,seawater_conductivity,S m-1,45.83049,-129.75326,5.0,200.0
+RS03AXPS-SF03A-2A-CTDPFA302,streamed,ctdpf_sbe43_sample,corrected_dissolved_oxygen,Œµmol kg-1,45.83049,-129.75326,5.0,200.0
+RS03AXPS-SF03A-2A-DOFSTA302,streamed,ctdpf_sbe43_sample,density,kg m-3,45.83049,-129.75326,5.0,200.0
+RS03AXPS-SF03A-2A-DOFSTA302,streamed,ctdpf_sbe43_sample,practical_salinity,1,45.83049,-129.75326,5.0,200.0
+RS03AXPS-SF03A-2A-DOFSTA302,streamed,ctdpf_sbe43_sample,seawater_temperature,deg_C,45.83049,-129.75326,5.0,200.0
+RS03AXPS-SF03A-2A-DOFSTA302,streamed,ctdpf_sbe43_sample,seawater_pressure,dbar,45.83049,-129.75326,5.0,200.0
+RS03AXPS-SF03A-2A-DOFSTA302,streamed,ctdpf_sbe43_sample,seawater_conductivity,S m-1,45.83049,-129.75326,5.0,200.0
+RS03AXPS-SF03A-2A-DOFSTA302,streamed,ctdpf_sbe43_sample,corrected_dissolved_oxygen,Œµmol kg-1,45.83049,-129.75326,5.0,200.0
+RS03AXPS-SF03A-2D-PHSENA301,streamed,phsen_data_record,phsen_thermistor_temperature,V,45.83049,-129.75326,5.0,200.0
+RS03AXPS-SF03A-2D-PHSENA301,streamed,phsen_data_record,ph_seawater,1,45.83049,-129.75326,5.0,200.0
+RS03AXPS-SF03A-3A-FLORTD301,streamed,flort_d_data_record,seawater_scattering_coefficient,m-1,45.83049,-129.75326,5.0,200.0
+RS03AXPS-SF03A-3A-FLORTD301,streamed,flort_d_data_record,fluorometric_chlorophyll_a,Œµg L-1,45.83049,-129.75326,5.0,200.0
+RS03AXPS-SF03A-3A-FLORTD301,streamed,flort_d_data_record,fluorometric_cdom,ppb,45.83049,-129.75326,5.0,200.0
+RS03AXPS-SF03A-3A-FLORTD301,streamed,flort_d_data_record,optical_backscatter,m-1,45.83049,-129.75326,5.0,200.0
+RS03AXPS-SF03A-3B-OPTAAD301,streamed,optaa_sample,beam_attenuation,m-1,45.83049,-129.75326,5.0,200.0
+RS03AXPS-SF03A-3B-OPTAAD301,streamed,optaa_sample,optical_absorption,m-1,45.83049,-129.75326,5.0,200.0
+RS03AXPS-SF03A-3B-OPTAAD301,streamed,optaa_sample,wavelength_a,nm,45.83049,-129.75326,5.0,200.0
+RS03AXPS-SF03A-3B-OPTAAD301,streamed,optaa_sample,wavelength_c,nm,45.83049,-129.75326,5.0,200.0
+RS03AXPS-SF03A-3B-OPTAAD301,streamed,optaa_sample,wavelength,1,45.83049,-129.75326,5.0,200.0
+RS03AXPS-SF03A-3C-PARADA301,streamed,parad_sa_sample,par_counts_output,umol photons m-2 s-1,45.83049,-129.75326,5.0,200.0
+RS03AXPS-SF03A-3D-SPKIRA301,streamed,spkir_data_record,spkir_downwelling_vector,uW cm-2 nm-1,45.83049,-129.75326,5.0,200.0
+RS03AXPS-SF03A-4A-NUTNRA301,streamed,nutnr_a_dark_sample,nitrate_concentration,uMol L-1,45.83049,-129.75326,5.0,200.0
+RS03AXPS-SF03A-4A-NUTNRA301,streamed,nutnr_a_sample,salinity_corrected_nitrate,Œµmol L-1,45.83049,-129.75326,5.0,200.0
+RS03AXPS-SF03A-4A-NUTNRA301,streamed,nutnr_a_sample,nitrate_concentration,uMol L-1,45.83049,-129.75326,5.0,200.0
+RS03AXPS-SF03A-4B-VELPTD302,streamed,velpt_velocity_data,velpt_d_eastward_velocity,m s-1,45.83049,-129.75326,5.0,200.0
+RS03AXPS-SF03A-4B-VELPTD302,streamed,velpt_velocity_data,velpt_d_northward_velocity,m s-1,45.83049,-129.75326,5.0,200.0
+RS03AXPS-SF03A-4B-VELPTD302,streamed,velpt_velocity_data,velpt_d_upward_velocity,m s-1,45.83049,-129.75326,5.0,200.0
+RS03AXPS-SF03A-4B-VELPTD302,streamed,velpt_velocity_data,pressure_mbar,0.001 dbar,45.83049,-129.75326,5.0,200.0
+RS03AXPS-SF03A-4F-PCO2WA301,streamed,pco2w_a_sami_data_record,pco2w_thermistor_temperature,deg_C,45.83049,-129.75326,5.0,200.0
+RS03AXPS-SF03A-4F-PCO2WA301,streamed,pco2w_a_sami_data_record,pco2_seawater,uatm,45.83049,-129.75326,5.0,200.0
+RS03CCAL-MJ03F-05-BOTPTA301,streamed,botpt_lily_sample,corrected_compass_direction,degrees,45.95484,-130.00876,1526.0,1526.0
+RS03CCAL-MJ03F-05-BOTPTA301,streamed,botpt_lily_sample,seafloor_tilt_magnitude,urad,45.95484,-130.00876,1526.0,1526.0
+RS03CCAL-MJ03F-05-BOTPTA301,streamed,botpt_lily_sample,seafloor_tilt_direction,degrees,45.95484,-130.00876,1526.0,1526.0
+RS03CCAL-MJ03F-05-BOTPTA301,streamed,botpt_nano_sample,bottom_pressure,psia,45.95484,-130.00876,1526.0,1526.0
+RS03CCAL-MJ03F-05-BOTPTA301,streamed,botpt_nano_sample_24hr,botsflu_daydepth,m,45.95484,-130.00876,1526.0,1526.0
+RS03CCAL-MJ03F-05-BOTPTA301,streamed,botpt_nano_sample_24hr,botsflu_4wkrate,cm yr-1,45.95484,-130.00876,1526.0,1526.0
+RS03CCAL-MJ03F-05-BOTPTA301,streamed,botpt_nano_sample_24hr,botsflu_8wkrate,cm yr-1,45.95484,-130.00876,1526.0,1526.0
+RS03CCAL-MJ03F-05-BOTPTA301,streamed,botpt_nano_sample_15s,botsflu_meanpres,psi,45.95484,-130.00876,1526.0,1526.0
+RS03CCAL-MJ03F-05-BOTPTA301,streamed,botpt_nano_sample_15s,botsflu_meandepth,m,45.95484,-130.00876,1526.0,1526.0
+RS03CCAL-MJ03F-05-BOTPTA301,streamed,botpt_nano_sample_15s,botsflu_5minrate,cm min-1,45.95484,-130.00876,1526.0,1526.0
+RS03CCAL-MJ03F-05-BOTPTA301,streamed,botpt_nano_sample_15s,botsflu_10minrate,cm hr-1,45.95484,-130.00876,1526.0,1526.0
+RS03CCAL-MJ03F-05-BOTPTA301,streamed,botpt_nano_sample_15s,botsflu_predtide,m,45.95484,-130.00876,1526.0,1526.0
+RS03ECAL-MJ03E-06-BOTPTA302,streamed,botpt_lily_sample,corrected_compass_direction,degrees,45.93986,-129.97417,1516.0,1516.0
+RS03ECAL-MJ03E-06-BOTPTA302,streamed,botpt_lily_sample,seafloor_tilt_magnitude,urad,45.93986,-129.97417,1516.0,1516.0
+RS03ECAL-MJ03E-06-BOTPTA302,streamed,botpt_lily_sample,seafloor_tilt_direction,degrees,45.93986,-129.97417,1516.0,1516.0
+RS03ECAL-MJ03E-06-BOTPTA302,streamed,botpt_nano_sample,bottom_pressure,psia,45.93986,-129.97417,1516.0,1516.0
+RS03ECAL-MJ03E-06-BOTPTA302,streamed,botpt_nano_sample_24hr,botsflu_daydepth,m,45.93986,-129.97417,1516.0,1516.0
+RS03ECAL-MJ03E-06-BOTPTA302,streamed,botpt_nano_sample_24hr,botsflu_4wkrate,cm yr-1,45.93986,-129.97417,1516.0,1516.0
+RS03ECAL-MJ03E-06-BOTPTA302,streamed,botpt_nano_sample_24hr,botsflu_8wkrate,cm yr-1,45.93986,-129.97417,1516.0,1516.0
+RS03ECAL-MJ03E-06-BOTPTA302,streamed,botpt_nano_sample_15s,botsflu_meanpres,psi,45.93986,-129.97417,1516.0,1516.0
+RS03ECAL-MJ03E-06-BOTPTA302,streamed,botpt_nano_sample_15s,botsflu_meandepth,m,45.93986,-129.97417,1516.0,1516.0
+RS03ECAL-MJ03E-06-BOTPTA302,streamed,botpt_nano_sample_15s,botsflu_5minrate,cm min-1,45.93986,-129.97417,1516.0,1516.0
+RS03ECAL-MJ03E-06-BOTPTA302,streamed,botpt_nano_sample_15s,botsflu_10minrate,cm hr-1,45.93986,-129.97417,1516.0,1516.0
+RS03ECAL-MJ03E-06-BOTPTA302,streamed,botpt_nano_sample_15s,botsflu_predtide,m,45.93986,-129.97417,1516.0,1516.0
+RS03INT1-MJ03C-07-RASFLA301,recovered_inst,d1000_sample,temperature1,deg_C,45.92617,-129.97897,1520.0,1520.0
+RS03INT1-MJ03C-07-RASFLA301,recovered_inst,d1000_sample,temperature2,deg_C,45.92617,-129.97897,1520.0,1520.0
+RS03INT1-MJ03C-07-RASFLA301,recovered_inst,d1000_sample,temperature3,deg_C,45.92617,-129.97897,1520.0,1520.0
+RS03INT1-MJ03C-07-RASFLA301,recovered_inst,rasfl_a_subcon_instrument_recovered,temp,deg_C,45.92617,-129.97897,1520.0,1520.0
+RS03INT1-MJ03C-09-THSPHA301,streamed,thsph_sample,thsph_temp_th,deg_C,45.92637,-129.97905,1520.0,1520.0
+RS03INT1-MJ03C-09-THSPHA301,streamed,thsph_sample,thsph_temp_tl,deg_C,45.92637,-129.97905,1520.0,1520.0
+RS03INT1-MJ03C-09-THSPHA301,streamed,thsph_sample,thsph_ph,1,45.92637,-129.97905,1520.0,1520.0
+RS03INT1-MJ03C-09-THSPHA301,streamed,thsph_sample,thsph_ph_acl,1,45.92637,-129.97905,1520.0,1520.0
+RS03INT1-MJ03C-09-THSPHA301,streamed,thsph_sample,thsph_ph_noref,1,45.92637,-129.97905,1520.0,1520.0
+RS03INT1-MJ03C-09-THSPHA301,streamed,thsph_sample,thsph_ph_noref_acl,1,45.92637,-129.97905,1520.0,1520.0
+RS03INT1-MJ03C-09-THSPHA301,streamed,thsph_sample,thsph_sulfide,mmol kg-1,45.92637,-129.97905,1520.0,1520.0
+RS03INT1-MJ03C-09-THSPHA301,streamed,thsph_sample,thsph_hydrogen,mmol kg-1,45.92637,-129.97905,1520.0,1520.0
+RS03INT1-MJ03C-10-TRHPHA301,streamed,trhph_sample,vent_fluid_temperaure,deg_C,45.92636,-129.97921,1520.0,1520.0
+RS03INT1-MJ03C-10-TRHPHA301,streamed,trhph_sample,vent_fluid_chloride_conc,mmol kg-1,45.92636,-129.97921,1520.0,1520.0
+RS03INT1-MJ03C-10-TRHPHA301,streamed,trhph_sample,vent_fluid_orp,mV,45.92636,-129.97921,1520.0,1520.0
+RS03INT1-MJ03C-10-TRHPHA301,streamed,trhph_sample,trhph_thermistor_temp,deg_C,45.92636,-129.97921,1520.0,1520.0
+RS03INT2-MJ03D-06-BOTPTA303,streamed,botpt_lily_sample,corrected_compass_direction,degrees,45.9258,-129.9775,1527.0,1527.0
+RS03INT2-MJ03D-06-BOTPTA303,streamed,botpt_lily_sample,seafloor_tilt_magnitude,urad,45.9258,-129.9775,1527.0,1527.0
+RS03INT2-MJ03D-06-BOTPTA303,streamed,botpt_lily_sample,seafloor_tilt_direction,degrees,45.9258,-129.9775,1527.0,1527.0
+RS03INT2-MJ03D-06-BOTPTA303,streamed,botpt_nano_sample,bottom_pressure,psia,45.9258,-129.9775,1527.0,1527.0
+RS03INT2-MJ03D-06-BOTPTA303,streamed,botpt_nano_sample_24hr,botsflu_daydepth,m,45.9258,-129.9775,1527.0,1527.0
+RS03INT2-MJ03D-06-BOTPTA303,streamed,botpt_nano_sample_24hr,botsflu_4wkrate,cm yr-1,45.9258,-129.9775,1527.0,1527.0
+RS03INT2-MJ03D-06-BOTPTA303,streamed,botpt_nano_sample_24hr,botsflu_8wkrate,cm yr-1,45.9258,-129.9775,1527.0,1527.0
+RS03INT2-MJ03D-06-BOTPTA303,streamed,botpt_nano_sample_15s,botsflu_meanpres,psi,45.9258,-129.9775,1527.0,1527.0
+RS03INT2-MJ03D-06-BOTPTA303,streamed,botpt_nano_sample_15s,botsflu_meandepth,m,45.9258,-129.9775,1527.0,1527.0
+RS03INT2-MJ03D-06-BOTPTA303,streamed,botpt_nano_sample_15s,botsflu_5minrate,cm min-1,45.9258,-129.9775,1527.0,1527.0
+RS03INT2-MJ03D-06-BOTPTA303,streamed,botpt_nano_sample_15s,botsflu_10minrate,cm hr-1,45.9258,-129.9775,1527.0,1527.0
+RS03INT2-MJ03D-06-BOTPTA303,streamed,botpt_nano_sample_15s,botsflu_predtide,m,45.9258,-129.9775,1527.0,1527.0
+RS03INT2-MJ03D-12-VEL3DB304,streamed,vel3d_b_sample,eastward_turbulent_velocity,m s-1,45.92586,-129.97781,1527.0,1527.0
+RS03INT2-MJ03D-12-VEL3DB304,streamed,vel3d_b_sample,northward_turbulent_velocity,m s-1,45.92586,-129.97781,1527.0,1527.0
+RS03INT2-MJ03D-12-VEL3DB304,streamed,vel3d_b_sample,upward_turbulent_velocity,m s-1,45.92586,-129.97781,1527.0,1527.0
+CE02SHBP-LJ01D-05-ADCPTB104,streamed,adcp_velocity_beam,corrected_echo_intensity_beam1,dB,44.63708,-124.30595,80.0,80.0
+CE02SHBP-LJ01D-05-ADCPTB104,streamed,adcp_velocity_beam,corrected_echo_intensity_beam2,dB,44.63708,-124.30595,80.0,80.0
+CE02SHBP-LJ01D-05-ADCPTB104,streamed,adcp_velocity_beam,corrected_echo_intensity_beam3,dB,44.63708,-124.30595,80.0,80.0
+CE02SHBP-LJ01D-05-ADCPTB104,streamed,adcp_velocity_beam,corrected_echo_intensity_beam4,dB,44.63708,-124.30595,80.0,80.0
+CE02SHBP-LJ01D-05-ADCPTB104,streamed,adcp_velocity_beam,eastward_seawater_velocity,m s-1,44.63708,-124.30595,80.0,80.0
+CE02SHBP-LJ01D-05-ADCPTB104,streamed,adcp_velocity_beam,northward_seawater_velocity,m s-1,44.63708,-124.30595,80.0,80.0
+CE02SHBP-LJ01D-05-ADCPTB104,streamed,adcp_velocity_beam,upward_seawater_velocity,m s-1,44.63708,-124.30595,80.0,80.0
+CE02SHBP-LJ01D-05-ADCPTB104,streamed,adcp_velocity_beam,error_seawater_velocity,m s-1,44.63708,-124.30595,80.0,80.0
+CE02SHBP-LJ01D-05-ADCPTB104,streamed,adcp_velocity_earth,corrected_echo_intensity_beam1,dB,44.63708,-124.30595,80.0,80.0
+CE02SHBP-LJ01D-05-ADCPTB104,streamed,adcp_velocity_earth,corrected_echo_intensity_beam2,dB,44.63708,-124.30595,80.0,80.0
+CE02SHBP-LJ01D-05-ADCPTB104,streamed,adcp_velocity_earth,corrected_echo_intensity_beam3,dB,44.63708,-124.30595,80.0,80.0
+CE02SHBP-LJ01D-05-ADCPTB104,streamed,adcp_velocity_earth,corrected_echo_intensity_beam4,dB,44.63708,-124.30595,80.0,80.0
+CE02SHBP-LJ01D-05-ADCPTB104,streamed,adcp_velocity_earth,eastward_seawater_velocity,m s-1,44.63708,-124.30595,80.0,80.0
+CE02SHBP-LJ01D-05-ADCPTB104,streamed,adcp_velocity_earth,northward_seawater_velocity,m s-1,44.63708,-124.30595,80.0,80.0
+CE02SHBP-LJ01D-05-ADCPTB104,streamed,adcp_velocity_earth,upward_seawater_velocity,m s-1,44.63708,-124.30595,80.0,80.0
+CE02SHBP-LJ01D-05-ADCPTB104,streamed,adcp_velocity_earth,error_seawater_velocity,m s-1,44.63708,-124.30595,80.0,80.0
+CE02SHBP-LJ01D-06-CTDBPN106,streamed,ctdbp_no_sample,density,kg m-3,44.63708,-124.30595,80.0,80.0
+CE02SHBP-LJ01D-06-CTDBPN106,streamed,ctdbp_no_sample,practical_salinity,1,44.63708,-124.30595,80.0,80.0
+CE02SHBP-LJ01D-06-CTDBPN106,streamed,ctdbp_no_sample,dissolved_oxygen,Œµmol kg-1,44.63708,-124.30595,80.0,80.0
+CE02SHBP-LJ01D-06-CTDBPN106,streamed,ctdbp_no_sample,seawater_temperature,deg_C,44.63708,-124.30595,80.0,80.0
+CE02SHBP-LJ01D-06-CTDBPN106,streamed,ctdbp_no_sample,ctd_tc_oxygen,umol L-1,44.63708,-124.30595,80.0,80.0
+CE02SHBP-LJ01D-06-CTDBPN106,streamed,ctdbp_no_sample,ctdbp_no_seawater_pressure,dbar,44.63708,-124.30595,80.0,80.0
+CE02SHBP-LJ01D-06-CTDBPN106,streamed,ctdbp_no_sample,ctdbp_no_seawater_conductivity,S m-1,44.63708,-124.30595,80.0,80.0
+CE02SHBP-LJ01D-06-DOSTAD106,streamed,ctdbp_no_sample,density,kg m-3,44.63708,-124.30595,80.0,80.0
+CE02SHBP-LJ01D-06-DOSTAD106,streamed,ctdbp_no_sample,practical_salinity,1,44.63708,-124.30595,80.0,80.0
+CE02SHBP-LJ01D-06-DOSTAD106,streamed,ctdbp_no_sample,dissolved_oxygen,Œµmol kg-1,44.63708,-124.30595,80.0,80.0
+CE02SHBP-LJ01D-06-DOSTAD106,streamed,ctdbp_no_sample,seawater_temperature,deg_C,44.63708,-124.30595,80.0,80.0
+CE02SHBP-LJ01D-06-DOSTAD106,streamed,ctdbp_no_sample,ctd_tc_oxygen,umol L-1,44.63708,-124.30595,80.0,80.0
+CE02SHBP-LJ01D-06-DOSTAD106,streamed,ctdbp_no_sample,ctdbp_no_seawater_pressure,dbar,44.63708,-124.30595,80.0,80.0
+CE02SHBP-LJ01D-06-DOSTAD106,streamed,ctdbp_no_sample,ctdbp_no_seawater_conductivity,S m-1,44.63708,-124.30595,80.0,80.0
+CE02SHBP-LJ01D-07-VEL3DC108,streamed,vel3d_cd_velocity_data,vel3d_c_eastward_turbulent_velocity,m s-1,44.63708,-124.30595,80.0,80.0
+CE02SHBP-LJ01D-07-VEL3DC108,streamed,vel3d_cd_velocity_data,vel3d_c_northward_turbulent_velocity,m s-1,44.63708,-124.30595,80.0,80.0
+CE02SHBP-LJ01D-07-VEL3DC108,streamed,vel3d_cd_velocity_data,vel3d_c_upward_turbulent_velocity,m s-1,44.63708,-124.30595,80.0,80.0
+CE02SHBP-LJ01D-08-OPTAAD106,streamed,optaa_sample,beam_attenuation,m-1,44.63708,-124.30595,80.0,80.0
+CE02SHBP-LJ01D-08-OPTAAD106,streamed,optaa_sample,optical_absorption,m-1,44.63708,-124.30595,80.0,80.0
+CE02SHBP-LJ01D-08-OPTAAD106,streamed,optaa_sample,wavelength_a,nm,44.63708,-124.30595,80.0,80.0
+CE02SHBP-LJ01D-08-OPTAAD106,streamed,optaa_sample,wavelength_c,nm,44.63708,-124.30595,80.0,80.0
+CE02SHBP-LJ01D-08-OPTAAD106,streamed,optaa_sample,wavelength,1,44.63708,-124.30595,80.0,80.0
+CE02SHBP-LJ01D-09-PCO2WB103,streamed,pco2w_b_sami_data_record,pco2w_thermistor_temperature,deg_C,44.63708,-124.30595,80.0,80.0
+CE02SHBP-LJ01D-09-PCO2WB103,streamed,pco2w_b_sami_data_record,pco2_seawater,uatm,44.63708,-124.30595,80.0,80.0
+CE02SHBP-LJ01D-10-PHSEND103,streamed,phsen_data_record,phsen_thermistor_temperature,V,44.63708,-124.30595,80.0,80.0
+CE02SHBP-LJ01D-10-PHSEND103,streamed,phsen_data_record,ph_seawater,1,44.63708,-124.30595,80.0,80.0
+CE04OSBP-LJ01C-05-ADCPSI103,streamed,adcp_velocity_beam,corrected_echo_intensity_beam1,dB,44.36952,-124.95378,580.0,580.0
+CE04OSBP-LJ01C-05-ADCPSI103,streamed,adcp_velocity_beam,corrected_echo_intensity_beam2,dB,44.36952,-124.95378,580.0,580.0
+CE04OSBP-LJ01C-05-ADCPSI103,streamed,adcp_velocity_beam,corrected_echo_intensity_beam3,dB,44.36952,-124.95378,580.0,580.0
+CE04OSBP-LJ01C-05-ADCPSI103,streamed,adcp_velocity_beam,corrected_echo_intensity_beam4,dB,44.36952,-124.95378,580.0,580.0
+CE04OSBP-LJ01C-05-ADCPSI103,streamed,adcp_velocity_beam,eastward_seawater_velocity,m s-1,44.36952,-124.95378,580.0,580.0
+CE04OSBP-LJ01C-05-ADCPSI103,streamed,adcp_velocity_beam,northward_seawater_velocity,m s-1,44.36952,-124.95378,580.0,580.0
+CE04OSBP-LJ01C-05-ADCPSI103,streamed,adcp_velocity_beam,upward_seawater_velocity,m s-1,44.36952,-124.95378,580.0,580.0
+CE04OSBP-LJ01C-05-ADCPSI103,streamed,adcp_velocity_beam,error_seawater_velocity,m s-1,44.36952,-124.95378,580.0,580.0
+CE04OSBP-LJ01C-05-ADCPSI103,streamed,adcp_velocity_earth,corrected_echo_intensity_beam1,dB,44.36952,-124.95378,580.0,580.0
+CE04OSBP-LJ01C-05-ADCPSI103,streamed,adcp_velocity_earth,corrected_echo_intensity_beam2,dB,44.36952,-124.95378,580.0,580.0
+CE04OSBP-LJ01C-05-ADCPSI103,streamed,adcp_velocity_earth,corrected_echo_intensity_beam3,dB,44.36952,-124.95378,580.0,580.0
+CE04OSBP-LJ01C-05-ADCPSI103,streamed,adcp_velocity_earth,corrected_echo_intensity_beam4,dB,44.36952,-124.95378,580.0,580.0
+CE04OSBP-LJ01C-05-ADCPSI103,streamed,adcp_velocity_earth,eastward_seawater_velocity,m s-1,44.36952,-124.95378,580.0,580.0
+CE04OSBP-LJ01C-05-ADCPSI103,streamed,adcp_velocity_earth,northward_seawater_velocity,m s-1,44.36952,-124.95378,580.0,580.0
+CE04OSBP-LJ01C-05-ADCPSI103,streamed,adcp_velocity_earth,upward_seawater_velocity,m s-1,44.36952,-124.95378,580.0,580.0
+CE04OSBP-LJ01C-05-ADCPSI103,streamed,adcp_velocity_earth,error_seawater_velocity,m s-1,44.36952,-124.95378,580.0,580.0
+CE04OSBP-LJ01C-06-CTDBPO108,streamed,ctdbp_no_sample,density,kg m-3,44.3695,-124.95369,580.0,580.0
+CE04OSBP-LJ01C-06-CTDBPO108,streamed,ctdbp_no_sample,practical_salinity,1,44.3695,-124.95369,580.0,580.0
+CE04OSBP-LJ01C-06-CTDBPO108,streamed,ctdbp_no_sample,dissolved_oxygen,Œµmol kg-1,44.3695,-124.95369,580.0,580.0
+CE04OSBP-LJ01C-06-CTDBPO108,streamed,ctdbp_no_sample,seawater_temperature,deg_C,44.3695,-124.95369,580.0,580.0
+CE04OSBP-LJ01C-06-CTDBPO108,streamed,ctdbp_no_sample,ctd_tc_oxygen,umol L-1,44.3695,-124.95369,580.0,580.0
+CE04OSBP-LJ01C-06-CTDBPO108,streamed,ctdbp_no_sample,ctdbp_no_seawater_pressure,dbar,44.3695,-124.95369,580.0,580.0
+CE04OSBP-LJ01C-06-CTDBPO108,streamed,ctdbp_no_sample,ctdbp_no_seawater_conductivity,S m-1,44.3695,-124.95369,580.0,580.0
+CE04OSBP-LJ01C-06-DOSTAD108,streamed,ctdbp_no_sample,density,kg m-3,44.3695,-124.95369,580.0,580.0
+CE04OSBP-LJ01C-06-DOSTAD108,streamed,ctdbp_no_sample,practical_salinity,1,44.3695,-124.95369,580.0,580.0
+CE04OSBP-LJ01C-06-DOSTAD108,streamed,ctdbp_no_sample,dissolved_oxygen,Œµmol kg-1,44.3695,-124.95369,580.0,580.0
+CE04OSBP-LJ01C-06-DOSTAD108,streamed,ctdbp_no_sample,seawater_temperature,deg_C,44.3695,-124.95369,580.0,580.0
+CE04OSBP-LJ01C-06-DOSTAD108,streamed,ctdbp_no_sample,ctd_tc_oxygen,umol L-1,44.3695,-124.95369,580.0,580.0
+CE04OSBP-LJ01C-06-DOSTAD108,streamed,ctdbp_no_sample,ctdbp_no_seawater_pressure,dbar,44.3695,-124.95369,580.0,580.0
+CE04OSBP-LJ01C-06-DOSTAD108,streamed,ctdbp_no_sample,ctdbp_no_seawater_conductivity,S m-1,44.3695,-124.95369,580.0,580.0
+CE04OSBP-LJ01C-07-VEL3DC107,streamed,vel3d_cd_velocity_data,vel3d_c_eastward_turbulent_velocity,m s-1,44.3695,-124.95369,580.0,580.0
+CE04OSBP-LJ01C-07-VEL3DC107,streamed,vel3d_cd_velocity_data,vel3d_c_northward_turbulent_velocity,m s-1,44.3695,-124.95369,580.0,580.0
+CE04OSBP-LJ01C-07-VEL3DC107,streamed,vel3d_cd_velocity_data,vel3d_c_upward_turbulent_velocity,m s-1,44.3695,-124.95369,580.0,580.0
+CE04OSBP-LJ01C-08-OPTAAC104,streamed,optaa_sample,beam_attenuation,m-1,44.3695,-124.95369,580.0,580.0
+CE04OSBP-LJ01C-08-OPTAAC104,streamed,optaa_sample,optical_absorption,m-1,44.3695,-124.95369,580.0,580.0
+CE04OSBP-LJ01C-08-OPTAAC104,streamed,optaa_sample,wavelength_a,nm,44.3695,-124.95369,580.0,580.0
+CE04OSBP-LJ01C-08-OPTAAC104,streamed,optaa_sample,wavelength_c,nm,44.3695,-124.95369,580.0,580.0
+CE04OSBP-LJ01C-08-OPTAAC104,streamed,optaa_sample,wavelength,1,44.3695,-124.95369,580.0,580.0
+CE04OSBP-LJ01C-09-PCO2WB104,streamed,pco2w_b_sami_data_record,pco2w_thermistor_temperature,deg_C,44.3695,-124.95369,580.0,580.0
+CE04OSBP-LJ01C-09-PCO2WB104,streamed,pco2w_b_sami_data_record,pco2_seawater,uatm,44.3695,-124.95369,580.0,580.0
+CE04OSBP-LJ01C-10-PHSEND107,streamed,phsen_data_record,phsen_thermistor_temperature,V,44.3695,-124.95369,580.0,580.0
+CE04OSBP-LJ01C-10-PHSEND107,streamed,phsen_data_record,ph_seawater,1,44.3695,-124.95369,580.0,580.0
+CE04OSPS-PC01B-4A-CTDPFA109,streamed,ctdpf_optode_sample,density,kg m-3,44.37415,-124.95648,200.0,200.0
+CE04OSPS-PC01B-4A-CTDPFA109,streamed,ctdpf_optode_sample,practical_salinity,1,44.37415,-124.95648,200.0,200.0
+CE04OSPS-PC01B-4A-CTDPFA109,streamed,ctdpf_optode_sample,dissolved_oxygen,Œµmol kg-1,44.37415,-124.95648,200.0,200.0
+CE04OSPS-PC01B-4A-CTDPFA109,streamed,ctdpf_optode_sample,seawater_temperature,deg_C,44.37415,-124.95648,200.0,200.0
+CE04OSPS-PC01B-4A-CTDPFA109,streamed,ctdpf_optode_sample,seawater_pressure,dbar,44.37415,-124.95648,200.0,200.0
+CE04OSPS-PC01B-4A-CTDPFA109,streamed,ctdpf_optode_sample,seawater_conductivity,S m-1,44.37415,-124.95648,200.0,200.0
+CE04OSPS-PC01B-4A-CTDPFA109,streamed,ctdpf_optode_sample,ctd_tc_oxygen,umol L-1,44.37415,-124.95648,200.0,200.0
+CE04OSPS-PC01B-4A-DOSTAD109,streamed,ctdpf_optode_sample,density,kg m-3,44.37415,-124.95648,200.0,200.0
+CE04OSPS-PC01B-4A-DOSTAD109,streamed,ctdpf_optode_sample,practical_salinity,1,44.37415,-124.95648,200.0,200.0
+CE04OSPS-PC01B-4A-DOSTAD109,streamed,ctdpf_optode_sample,dissolved_oxygen,Œµmol kg-1,44.37415,-124.95648,200.0,200.0
+CE04OSPS-PC01B-4A-DOSTAD109,streamed,ctdpf_optode_sample,seawater_temperature,deg_C,44.37415,-124.95648,200.0,200.0
+CE04OSPS-PC01B-4A-DOSTAD109,streamed,ctdpf_optode_sample,seawater_pressure,dbar,44.37415,-124.95648,200.0,200.0
+CE04OSPS-PC01B-4A-DOSTAD109,streamed,ctdpf_optode_sample,seawater_conductivity,S m-1,44.37415,-124.95648,200.0,200.0
+CE04OSPS-PC01B-4A-DOSTAD109,streamed,ctdpf_optode_sample,ctd_tc_oxygen,umol L-1,44.37415,-124.95648,200.0,200.0
+CE04OSPS-PC01B-4B-PHSENA106,streamed,phsen_data_record,phsen_thermistor_temperature,V,44.37415,-124.95648,200.0,200.0
+CE04OSPS-PC01B-4B-PHSENA106,streamed,phsen_data_record,ph_seawater,1,44.37415,-124.95648,200.0,200.0
+CE04OSPS-PC01B-4D-PCO2WA105,streamed,pco2w_a_sami_data_record,pco2w_thermistor_temperature,deg_C,44.37415,-124.95648,200.0,200.0
+CE04OSPS-PC01B-4D-PCO2WA105,streamed,pco2w_a_sami_data_record,pco2_seawater,uatm,44.37415,-124.95648,200.0,200.0
+CE04OSPS-SF01B-2A-CTDPFA107,streamed,ctdpf_sbe43_sample,density,kg m-3,44.37415,-124.95648,20.0,200.0
+CE04OSPS-SF01B-2A-CTDPFA107,streamed,ctdpf_sbe43_sample,practical_salinity,1,44.37415,-124.95648,20.0,200.0
+CE04OSPS-SF01B-2A-CTDPFA107,streamed,ctdpf_sbe43_sample,seawater_temperature,deg_C,44.37415,-124.95648,20.0,200.0
+CE04OSPS-SF01B-2A-CTDPFA107,streamed,ctdpf_sbe43_sample,seawater_pressure,dbar,44.37415,-124.95648,20.0,200.0
+CE04OSPS-SF01B-2A-CTDPFA107,streamed,ctdpf_sbe43_sample,seawater_conductivity,S m-1,44.37415,-124.95648,20.0,200.0
+CE04OSPS-SF01B-2A-CTDPFA107,streamed,ctdpf_sbe43_sample,corrected_dissolved_oxygen,Œµmol kg-1,44.37415,-124.95648,20.0,200.0
+CE04OSPS-SF01B-2A-DOFSTA107,streamed,ctdpf_sbe43_sample,density,kg m-3,44.37415,-124.95648,20.0,200.0
+CE04OSPS-SF01B-2A-DOFSTA107,streamed,ctdpf_sbe43_sample,practical_salinity,1,44.37415,-124.95648,20.0,200.0
+CE04OSPS-SF01B-2A-DOFSTA107,streamed,ctdpf_sbe43_sample,seawater_temperature,deg_C,44.37415,-124.95648,20.0,200.0
+CE04OSPS-SF01B-2A-DOFSTA107,streamed,ctdpf_sbe43_sample,seawater_pressure,dbar,44.37415,-124.95648,20.0,200.0
+CE04OSPS-SF01B-2A-DOFSTA107,streamed,ctdpf_sbe43_sample,seawater_conductivity,S m-1,44.37415,-124.95648,20.0,200.0
+CE04OSPS-SF01B-2A-DOFSTA107,streamed,ctdpf_sbe43_sample,corrected_dissolved_oxygen,Œµmol kg-1,44.37415,-124.95648,20.0,200.0
+CE04OSPS-SF01B-2B-PHSENA108,streamed,phsen_data_record,phsen_thermistor_temperature,V,44.37415,-124.95648,20.0,200.0
+CE04OSPS-SF01B-2B-PHSENA108,streamed,phsen_data_record,ph_seawater,1,44.37415,-124.95648,20.0,200.0
+CE04OSPS-SF01B-3A-FLORTD104,streamed,flort_d_data_record,seawater_scattering_coefficient,m-1,44.37415,-124.95648,20.0,200.0
+CE04OSPS-SF01B-3A-FLORTD104,streamed,flort_d_data_record,fluorometric_chlorophyll_a,Œµg L-1,44.37415,-124.95648,20.0,200.0
+CE04OSPS-SF01B-3A-FLORTD104,streamed,flort_d_data_record,fluorometric_cdom,ppb,44.37415,-124.95648,20.0,200.0
+CE04OSPS-SF01B-3A-FLORTD104,streamed,flort_d_data_record,optical_backscatter,m-1,44.37415,-124.95648,20.0,200.0
+CE04OSPS-SF01B-3B-OPTAAD105,streamed,optaa_sample,beam_attenuation,m-1,44.37415,-124.95648,20.0,200.0
+CE04OSPS-SF01B-3B-OPTAAD105,streamed,optaa_sample,optical_absorption,m-1,44.37415,-124.95648,20.0,200.0
+CE04OSPS-SF01B-3B-OPTAAD105,streamed,optaa_sample,wavelength_a,nm,44.37415,-124.95648,20.0,200.0
+CE04OSPS-SF01B-3B-OPTAAD105,streamed,optaa_sample,wavelength_c,nm,44.37415,-124.95648,20.0,200.0
+CE04OSPS-SF01B-3B-OPTAAD105,streamed,optaa_sample,wavelength,1,44.37415,-124.95648,20.0,200.0
+CE04OSPS-SF01B-3C-PARADA102,streamed,parad_sa_sample,par_counts_output,umol photons m-2 s-1,44.37415,-124.95648,20.0,200.0
+CE04OSPS-SF01B-3D-SPKIRA102,streamed,spkir_data_record,spkir_downwelling_vector,uW cm-2 nm-1,44.37415,-124.95648,20.0,200.0
+CE04OSPS-SF01B-4A-NUTNRA102,streamed,nutnr_a_dark_sample,nitrate_concentration,uMol L-1,44.37415,-124.95648,20.0,200.0
+CE04OSPS-SF01B-4A-NUTNRA102,streamed,nutnr_a_sample,salinity_corrected_nitrate,Œµmol L-1,44.37415,-124.95648,20.0,200.0
+CE04OSPS-SF01B-4A-NUTNRA102,streamed,nutnr_a_sample,nitrate_concentration,uMol L-1,44.37415,-124.95648,20.0,200.0
+CE04OSPS-SF01B-4B-VELPTD106,streamed,velpt_velocity_data,velpt_d_eastward_velocity,m s-1,44.37415,-124.95648,20.0,200.0
+CE04OSPS-SF01B-4B-VELPTD106,streamed,velpt_velocity_data,velpt_d_northward_velocity,m s-1,44.37415,-124.95648,20.0,200.0
+CE04OSPS-SF01B-4B-VELPTD106,streamed,velpt_velocity_data,velpt_d_upward_velocity,m s-1,44.37415,-124.95648,20.0,200.0
+CE04OSPS-SF01B-4B-VELPTD106,streamed,velpt_velocity_data,pressure_mbar,0.001 dbar,44.37415,-124.95648,20.0,200.0
+CE04OSPS-SF01B-4F-PCO2WA102,streamed,pco2w_a_sami_data_record,pco2w_thermistor_temperature,deg_C,44.37415,-124.95648,20.0,200.0
+CE04OSPS-SF01B-4F-PCO2WA102,streamed,pco2w_a_sami_data_record,pco2_seawater,uatm,44.37415,-124.95648,20.0,200.0

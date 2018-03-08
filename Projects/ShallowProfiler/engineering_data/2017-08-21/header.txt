@@ -1,0 +1,1 @@
+wrpm,wcur,wrevs,drumrots,wload,wstatus,lrpm,lcur,lwsp,lrevs,lstatus,sdepth,wstate,wtime,spitch,sroll,syaw,sax,say,saz
