@@ -1,0 +1,33 @@
+#/bin/bash
+# Install requirements for CAHW CamHD demo.
+
+# add jovyan group if necessary
+if grep -q jovyan /etc/group; then
+  echo "Group jovyan exists."
+else
+  echo "Adding group jovyan."
+  sudo sh -c 'echo "jovyan:x:1000:" >> /etc/group'
+fi
+
+# apt-get install system requirements
+sudo apt-get update
+sudo apt-get -y -q install pkgconf ffmpeg libavfilter-dev libavdevice-dev build-essential openssh-client vim less jq man-db
+
+# pip install python requirements
+pip install numpngw Cython
+
+# pip install PyAV
+cd ~/cahw2018_camhd/
+git clone https://github.com/mikeboers/PyAV.git
+cd PyAV/
+pip install .
+
+# pip install pycamhd
+cd ~/cahw2018_camhd/
+git clone https://github.com/tjcrone/pycamhd.git
+cd pycamhd/
+pip install .
+cd
+
+# update worker-template.yaml
+sed -i 's/daskdev\/pangeo-worker:2018-02-14/tjcrone\/pangeo-worker:2018-02-22/' worker-template.yaml

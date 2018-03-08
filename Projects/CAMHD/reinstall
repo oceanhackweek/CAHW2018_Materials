@@ -1,0 +1,33 @@
+#/bin/bash
+# Reinstall requirements for CAHW CamHD demo when restarting a notebook server.
+
+# add jovyan group if necessary
+if grep -q jovyan /etc/group; then
+  echo "Group jovyan exists."
+else
+  echo "Adding group jovyan."
+  sudo sh -c 'echo "jovyan:x:1000:" >> /etc/group'
+fi
+
+# install system requirements
+sudo apt-get update
+sudo apt-get -y -q install pkgconf ffmpeg libavfilter-dev libavdevice-dev build-essential openssh-client vim less jq man-db
+
+# pip install numpngw
+pip install numpngw cython
+
+# pip install PyAV
+if [ -d "/home/jovyan/cahw2018_camhd/PyAV" ]; then
+  cd /home/jovyan/cahw2018_camhd/PyAV
+  pip install .
+fi
+
+# pip install pycamhd
+if [ -d "/home/jovyan/cahw2018_camhd/pycamhd" ]; then
+  echo "exists"
+  cd /home/jovyan/cahw2018_camhd/pycamhd
+  pip install .
+fi
+
+# return home
+cd /home/jovyan
