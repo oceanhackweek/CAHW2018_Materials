@@ -1,9 +1,6 @@
-Rob To-Do list...
-Create a World-Readable S3 bucket for data files 
-Add the whale sounds files to this
+Rob To-Do list
+Put data on the ooica S3 bucket: ... including V's hydrophone data
 Add the GLODAP files
-Add other obvious files...
-Modify the notebooks to read from S3... see for example Rob's notebooks in the ExternalResources Project
-Create a binder link in the repo for demos
-Merge in the remaining Other Repos (but not Don's)
-Just add 'Running Jupyter Notebooks Locally page/readme' cf geohackweek https://github.com/geohackweek/ghw2017/wiki/Running-Jupyter-Notebooks-Locally) and don’t worry about binder for the moment
+Creds / write access for ooica S3 bucket in the eScience account w Czar access
+Future: Create a binder link in the repo for demos
+Now: Just add 'Running Jupyter Notebooks Locally page/readme' cf geohackweek https://github.com/geohackweek/ghw2017/wiki/Running-Jupyter-Notebooks-Locally) and don’t worry about binder for the moment
